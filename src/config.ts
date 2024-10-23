@@ -3,7 +3,7 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
   author: "Dylan Burkey",
-  profile: "https://satnaing.dev/",
+  profile: "https://dylanburkey.box",
   desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
   title: "Dylan Burkey",
   ogImage: "astropaper-og.jpg",
@@ -42,17 +42,17 @@ export const SOCIALS: SocialObjects = [
     name: "Facebook",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Facebook`,
-    active: true,
+    active: false,
   },
   {
     name: "Instagram",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Instagram`,
-    active: true,
+    active: false,
   },
   {
     name: "LinkedIn",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://linkedin.com/in/dylanburkey",
     linkTitle: `${SITE.title} on LinkedIn`,
     active: true,
   },
@@ -66,7 +66,7 @@ export const SOCIALS: SocialObjects = [
     name: "Twitter",
     href: "https://twitter.com/dylanburkey",
     linkTitle: `${SITE.title} on Twitter`,
-    active: false,
+    active: true,
   },
   {
     name: "Twitch",
@@ -76,15 +76,15 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "YouTube",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://youtube.com/dylanburkey",
     linkTitle: `${SITE.title} on YouTube`,
-    active: false,
+    active: true,
   },
   {
-    name: "WhatsApp",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on WhatsApp`,
-    active: false,
+    name: "WebbieSocial",
+    href: "https://webbiesocial.com/dylanburkey",
+    linkTitle: `${SITE.title} on WebbieSocial.com`,
+    active: true,
   },
   {
     name: "Snapchat",
