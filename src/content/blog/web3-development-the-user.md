@@ -18,7 +18,13 @@ ogImage: ""
 description: Web3 is a rapidly growing field, and it's important to understand how users interact with it.
 canonicalURL: https://astro-paper.pages.dev/posts/web3-development-the-user/
 ---
+
+
+
 # Elevating User Experience in Web3: Overcoming Development Pitfalls
+
+## Table of contents
+
 
 In the age of Web3, the landscape of web development is undergoing a significant transformation. This shift is not just about integrating blockchain technologies but also about emphasizing user-focused design principles. Unlike traditional web design, Web3 requires a rethinking of how users interact with websites, prioritizing decentralized experiences that meet user needs.
 
