@@ -81,16 +81,16 @@ export const SOCIALS: SocialObjects = [
     active: true,
   },
   {
-    name: "WebbieSocial",
+    name: "WhatsApp",
     href: "https://webbiesocial.com/dylanburkey",
-    linkTitle: `${SITE.title} on WebbieSocial.com`,
-    active: true,
+    linkTitle: `${SITE.title} on WhatsApp`,
+    active: false,
   },
   {
     name: "Snapchat",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Snapchat`,
-    active: false,
+    active: true,
   },
   {
     name: "Pinterest",
