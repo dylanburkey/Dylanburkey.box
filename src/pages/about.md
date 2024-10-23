@@ -5,7 +5,7 @@ title: "About"
 
 # Dylan Burkey - Senior Web Marketing Engineer - Web3 Forbes Legacy Pass Holder
 
-![Dylan Burkey](/assets/images/dylan-burkey.jpg)
+<img src="/assets/images/dylan-burkey.jpg" alt="Dylan Burkey">
 
 Who the heck is he and why should I listen to him?
 
