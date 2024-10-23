@@ -14,9 +14,9 @@ tags:
   - ui
   - User Journey
   - Web3 SEO
-ogImage: ""
+ogImage: "https://lh3.googleusercontent.com/gg/ACM6BItPbeFuCUaVDbpNUaFDOOKNE4JADwvJryRPxfUZRu3FSywY1eo-4acSq8lO23TqqLuYBOYUx7Qf4JzQ8zJL3Xd_zjt8dKVCycGTRR6rfq7kTMuXlRVQym6pps0BIbr0ljCAtcnuLY5CEPASj57VstXwhZVM0lvaNBzmOFAjH1pjpgpH3ww"
 description: Web3 is a rapidly growing field, and it's important to understand how users interact with it.
-canonicalURL: https://astro-paper.pages.dev/posts/web3-development-the-user/
+canonicalURL: https://dylanburkey.box/posts/web3-development-the-user/
 ---
 
 
