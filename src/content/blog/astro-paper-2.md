@@ -1,9 +1,9 @@
 ---
-author: Sat Naing
+author: Dylan Burkey
 pubDatetime: 2023-01-30T15:57:52.737Z
-title: AstroPaper 2.0
-slug: astro-paper-2
-featured: false
+title: User Experience in Web3
+slug: user-experience-in-web3
+featured: true
 ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2309-4f8b-a781-1f3d93bdf0ec.png
 tags:
   - release
@@ -29,6 +29,10 @@ Frontmatter of AstroPaper 2.0 markdown contents are now type-safe thanks to Astr
 All the blog posts were moved from `src/contents` to `src/content/blog` directory.
 
 ### New Fetch API
+
+## Web 3 Development and Marketing Blog
+
+AstroPaper v2 is a minimal, responsive, accessible and SEO-friendly Astro blog theme.
 
 Contents are now fetched with `getCollection` function. No relative path to the content needs to be specified anymore.
 
