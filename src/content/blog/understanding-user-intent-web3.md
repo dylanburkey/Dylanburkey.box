@@ -20,12 +20,10 @@ canonicalURL: https://dylanburkey.com/posts/web3-development-the-user/
 ---
 
 
+## Table of contents
 
 
 # Web3 User Experience: Measuring and Improving What Matters
-
-## Table of contents
-
 
 The world of Web3 is innovating rapidly, and user experience (UX) is more important than ever. Gerry McGovern's talk at "An Event Apart" in Denver 2017 shines a much-needed spotlight on the best way to measure and improve the customer experience. McGovern presented a robust framework for tackling this issue, showcasing actionable strategies to streamline digital interaction. His honest, no-frills speaking style takes on bloated web designs and delivers direct solutions for a more user-friendly experience that works in Web3's rapidly expanding landscape.
 
