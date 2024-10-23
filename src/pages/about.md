@@ -6,6 +6,7 @@ title: "About"
 # Dylan Burkey - Senior Web Marketing Engineer - Web3 Forbes Legacy Pass Holder
 
 <img src="../assets/images/dylan-burkey.jpg" title="dylan burkey" alt="Dylan Burkey">
+
 ![something](@assets/images/example.jpg)
 
 
