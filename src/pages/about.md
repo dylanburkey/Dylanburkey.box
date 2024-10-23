@@ -5,9 +5,9 @@ title: "About"
 
 # Dylan Burkey - Senior Web Marketing Engineer - Web3 Forbes Legacy Pass Holder
 
-<img src="../assets/images/dylan-burkey.jpg" title="dylan burkey" alt="Dylan Burkey">
 
-![something](@assets/images/dylan-burkey.jpg)
+
+![Dylan Burkey - Senior Web Marketing Manager](@assets/images/dylan-burkey.jpg)
 
 
 Who the heck is he and why should I listen to him?
