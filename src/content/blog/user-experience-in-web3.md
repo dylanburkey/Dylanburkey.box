@@ -1,14 +1,20 @@
 ---
-title: "User Experience in Web3"
-description: "Web3 is a rapidly growing field, and it's important to understand how users interact with it. In this post, we'll explore the user experience in Web3 and how it differs from traditional web applications."
-pubDate: "2023-10-23"
+title: User Experience in Web3
+author: Dylan Burkey
+pubDate: 2023-10-2309T03:42:51Z
+slug: how-develop-web3-websites-and-dapps-for-users
 featured: true
+draft: false
 tags:
-  - web3
+    - web3
   - ux
   - user experience
   - web3 ux
+ description: 
+    "Web3 is a rapidly growing field, and it's important to understand how users interact with it. In this post, we'll explore the user experience in Web3 and how it differs from traditional web applications."
 ---
+
+
 # User Experience in Web3 
 Web3 is a rapidly growing field, and it's important to understand how users interact with it. In this post, we'll explore the user experience in Web3 and how it differs from traditional web applications.
 
