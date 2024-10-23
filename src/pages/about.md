@@ -7,7 +7,7 @@ title: "About"
 
 <img src="../assets/images/dylan-burkey.jpg" title="dylan burkey" alt="Dylan Burkey">
 
-![something](@assets/images/example.jpg)
+![something](@assets/images/dylan-burkey.jpg)
 
 
 Who the heck is he and why should I listen to him?
