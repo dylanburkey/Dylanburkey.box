@@ -2,7 +2,7 @@
 title: Elevating User Experience in Web3 Overcoming Development Pitfalls
 author: Dylan Burkey
 pubDatetime: 2024-10-21T05:17:19Z
-slug: overcoming-development-pitfalls-in-web3-user-experience
+slug: elevating-user-experience-in-web3
 featured: true
 draft: false
 tags:
@@ -27,6 +27,10 @@ canonicalURL: https://dylanburkey.box/posts/web3-development-the-user/
 
 
 In the age of Web3, the landscape of web development is undergoing a significant transformation. This shift is not just about integrating blockchain technologies but also about emphasizing user-focused design principles. Unlike traditional web design, Web3 requires a rethinking of how users interact with websites, prioritizing decentralized experiences that meet user needs.
+
+
+
+![Web3 Development Image](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg)
 
 ## Understanding User Needs in Web3
 

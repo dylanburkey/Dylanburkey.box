@@ -1,8 +1,8 @@
 ---
-title: Elevating User Experience in Web3 Overcoming Development Pitfalls
+title: Web3 User Experience - Measuring what matters.
 author: Dylan Burkey
 pubDatetime: 2024-10-23T05:17:19Z
-slug: overcoming-development-pitfalls-in-web3-user-experience
+slug: measuring-and-improving-what-matters-web3
 featured: true
 draft: false
 tags:
@@ -14,7 +14,7 @@ tags:
   - UI/UX
   - Web Performance
   - Web3 SEO
-ogImage: ""
+ogImage: "https://i.ytimg.com/vi_webp/cdpMiMc1ErQ/sddefault.webp"
 description: Web3 is a rapidly growing field, and it's important to understand how users interact with it.
 canonicalURL: https://dylanburkey.com/posts/web3-development-the-user/
 ---
