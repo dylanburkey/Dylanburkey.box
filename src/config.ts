@@ -90,7 +90,7 @@ export const SOCIALS: SocialObjects = [
     name: "WebbieSocial",
     href: "https://dylanburkey.box",
     linkTitle: `${SITE.title} on Snapchat`,
-    active: true,
+    active: false,
   },
   {
     name: "Pinterest",
