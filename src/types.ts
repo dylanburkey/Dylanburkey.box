@@ -6,6 +6,7 @@ export type Site = {
   profile: string;
   desc: string;
   title: string;
+  category: string;
   ogImage?: string;
   lightAndDarkMode: boolean;
   postPerIndex: number;

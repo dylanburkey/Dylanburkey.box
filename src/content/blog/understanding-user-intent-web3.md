@@ -2,9 +2,10 @@
 title: Web3 User Experience - Measuring what matters.
 author: Dylan Burkey
 pubDatetime: 2024-10-23T05:17:19Z
-slug: measuring-and-improving-what-matters-web3
+slug: understanding-user-intent-web3
 featured: true
 draft: false
+category: User Experience
 tags:
   - Web3
   - User Experience
@@ -16,7 +17,7 @@ tags:
   - Web3 SEO
 ogImage: "https://i.ytimg.com/vi_webp/cdpMiMc1ErQ/sddefault.webp"
 description: Web3 is a rapidly growing field, and it's important to understand how users interact with it.
-canonicalURL: https://dylanburkey.com/posts/web3-development-the-user/
+canonicalURL: https://dylanburkey.com/posts/understanding-user-intent-web3/
 ---
 
 
@@ -63,7 +64,7 @@ A goal of Web3 platforms should be removing friction like this. When your platfo
 
 ### The ETA vs. Visa Problem: Clarity is Key
 
-In McGovern’s example, users were further confused because the Canadian government referred to a travel authorization document as an eTA (Electronic Travel Authorization) instead of a visa. This kind of bureaucratic terminology caused extra stress for users who aren’t familiar with it. It’s a reminder that while internal teams may be familiar with certain terms, users operate on completely different assumptions. 
+In McGovern’s example, users were further confused because the Canadian government referred to a travel authorization document as an eTA (Electronic Travel Authorization) instead of a visa. This kind of bureaucratic terminology caused extra stress for users who aren’t familiar with it. It’s a reminder that while internal teams may be familiar with certain terms, users operate on completely different assumptions.
 
 In Web3, this is a huge issue. Many Web3 platforms use complex terminology that confuses new users: gas fees, staking, slashing—terms that are crucial but need to be explained in a simple, intuitive way. If you want your Web3 app to attract mainstream users, it’s crucial to use language they understand, or at the very least, provide a quick and direct definition or explanation on the page.
 

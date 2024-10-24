@@ -6,7 +6,7 @@ export const SITE: Site = {
   profile: "https://dylanburkey.box",
   desc: "Web3 and Web2 development and marketing are intersecting. Understanding the intersection is key to success.",
   title: "Dylan Burkey",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "dylan-burkey.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 3,
@@ -60,7 +60,7 @@ export const SOCIALS: SocialObjects = [
     name: "Mail",
     href: "mailto:dylanburkey@pm.me",
     linkTitle: `Send an email to ${SITE.title}`,
-    active: false,
+    active: true,
   },
   {
     name: "Twitter",
@@ -90,7 +90,7 @@ export const SOCIALS: SocialObjects = [
     name: "Snapchat",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Snapchat`,
-    active: true,
+    active: false,
   },
   {
     name: "Pinterest",
