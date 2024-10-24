@@ -100,6 +100,7 @@ const nextPost =
       <button
         id="back-to-top"
         class="focus-outline whitespace-nowrap py-1 hover:opacity-75"
+        title="Back to Top"
       >
         <svg xmlns="http://www.w3.org/2000/svg" class="rotate-90">
           <path
@@ -148,7 +149,7 @@ const nextPost =
       }
       {
         nextPost && (
-          <a
+          <a title="next"
             href={`/posts/${nextPost.slug}`}
             class="flex w-full justify-end gap-1 text-right hover:opacity-75 sm:col-start-2"
           >
