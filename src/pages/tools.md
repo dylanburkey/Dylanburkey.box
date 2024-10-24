@@ -3,11 +3,11 @@ layout: ../layouts/ToolsLayout.astro
 title: "Tools"
 ---
 
-# Web3 Marketing, Development, and Ecosystem Tools
+## Web3 Marketing, Development, and Ecosystem Tools
 
 Below is a collection of some of the most important tools I use on a day to day basis.
 
-## Productivity on OSX
+### Productivity on OSX
 
 - Raycast
 - Martha

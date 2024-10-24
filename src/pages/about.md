@@ -3,7 +3,7 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-# Dylan Burkey - Senior Web Marketing Engineer - Web3 Forbes Legacy Pass Holder
+## Dylan Burkey - Senior Web Marketing Engineer - Web3 Forbes Legacy Pass Holder
 
 
 
@@ -38,7 +38,7 @@ My background has always been under the "Marketing" umbrella. In my old "9-5" jo
     - Just about every PPC tool currently in use (Bing, Yahoo Ads, LinkedIn, etc)
 
 - **Marketing**
-  
+
   Having recently completed my Marketing MBA I have an excellent grasp on Marketing as a whole.
 
   - Content Creation
@@ -46,9 +46,9 @@ My background has always been under the "Marketing" umbrella. In my old "9-5" jo
   - Building and Developing Brands from scratch.
   - Restructuring current Brand strategies that are not working.
   - Campaign Creation
-  
+
 - **Web Development**
-  
+
 I have a understanding of all of the current JS frameworks (despite my distane for one.) I work with a number of different companies in various roles. I'm typically called in to course correct a project that has gone off track.
 
 This can be difficult as company stakeholders will believe they have answers for everything.
