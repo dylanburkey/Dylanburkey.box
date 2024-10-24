@@ -21,7 +21,7 @@ canonicalURL: https://dylanburkey.com/posts/how-to-address-ai-data-ownership-wit
 
 ## Table of contents
 
-# How to Address AI Data Ownership with Web3
+## How to Address AI Data Ownership with Web3
 
 Based on September 3, 2024 Forbes Web3 discussion (https://x.com/i/spaces/1MnGnDOEbymxO), several key points were raised to address concerns about data ownership and compensation in AI-driven content generation:
 
