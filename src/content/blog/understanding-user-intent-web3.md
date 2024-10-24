@@ -30,9 +30,10 @@ The world of Web3 is innovating rapidly, and user experience (UX) is more import
 
 In this blog post, I’ll break down the essential parts of McGovern’s insightful talk and point out how measuring the customer experience—and taking consistent action—can benefit your UX strategy in Web3. Here’s something to watch if you want to hear McGovern speak directly:
 
+**Click to watch**
 [![Web3 User Experience](https://i.ytimg.com/vi_webp/cdpMiMc1ErQ/sddefault.webp
 )](https://www.youtube.com/watch?v=cdpMiMc1ErQ)
-
+**Click to watch**
 
 It’s a lively and humorous presentation, but more than that, it’s about real-world experience and data-driven decisions that translate into a better user journey.
 
