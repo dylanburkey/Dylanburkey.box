@@ -14,12 +14,12 @@ tags:
   - Forbes Web3
 ogImage: "ai-and-web3-og.png"
 description: Learn how Web3 principles can empower individuals, ensure transparency, and redefine data rights in a digital landscape increasingly dominated by AI.
-canonicalURL: https://dylanburkey.com/posts/how-to-address-ai-data-ownership-with-web3
+canonicalURL: https://www.dylanburkey.box/posts/how-to-address-ai-data-ownership-with-web3/
 ---
 
 
 
-## Table of contents
+### Table of contents
 
 ## How to Address AI Data Ownership with Web3
 
