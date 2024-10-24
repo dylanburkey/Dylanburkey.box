@@ -13,7 +13,7 @@ tags:
   - UI/UX
   - Web3 SEO
 ogImage: ""
-description: Discover how embracing failure in Web3 inclusive design can lead to success. Learn from real-life cases and improve accessibility today.
+description: Inclusive design is key in Web3, ensuring accessibility and equity. Discover how to embed these principles from the start for all users.
 canonicalURL: https://dylanburkey.com/posts/web3-inclusive-design-failure-success
 ---
 
@@ -24,9 +24,9 @@ canonicalURL: https://dylanburkey.com/posts/web3-inclusive-design-failure-succes
 
 Failure is a teacher, not an end point. If we’re willing to admit our mistakes, we create the perfect backdrop for growth and improvement. I’ve had my fair share of failures, but one particular experience while designing an accessible video player opened my eyes to areas I had previously overlooked in Web3 inclusive design.
 
-## Learning from Failure: The Video Player Case Study 
+## Learning from Failure: The Video Player Case Study
 
-We were contracted to build a custom video player that would be an accessibility triumph. The organization we worked with had a highly specific audience: users who were visually impaired. Our goal was not just to make it "usable" for them, but to ensure a truly inclusive and fully accessible experience. We carried our prior successes, our knowledge, and our confidence into the project. But we missed something critical.
+I was contracted to build a custom video player that would be an accessibility triumph. The organization that my friend we worked with had a highly specific audience: users who were visually impaired. Our goal was not just to make it "usable" for them, but to ensure a truly inclusive and fully accessible experience. We carried our prior successes, our knowledge, and our confidence into the project. But we missed something critical.
 
 We thought we had created a player that would meet all accessibility standards. Technically, we had. But during the development process—and more importantly, during usability testing—we realized we had crucial gaps. The player was nearly accessible, but it was not *truly* inclusive.
 
@@ -38,7 +38,7 @@ At the beginning, we had all the right ingredients for success. We won the contr
 
 Our plan was to adopt a flexible, agile approach. We’d involve users in multiple phases and run frequent tests throughout development. It sounded like a winning formula, and in theory, it was.
 
-But soon, our assumptions began to unravel. 
+But soon, our assumptions began to unravel.
 
 ## The Missing Controls: A Simple Assumption Gone Wrong
 
@@ -58,13 +58,13 @@ One user eloquently described the ordeal: They had to constantly guess where the
 
 We heard our users loud and clear. It was time to head back to the drawing board. First, we introduced a better timeline scrubber. We added a function that showed the current time as users moved along the timeline, putting it directly in their field of vision.
 
-Additionally, fast-forward and rewind buttons made a comeback after we realized how much they mattered, especially for users accustomed to these controls on VCRs and cassette players. It became evident that some users relied on these more than the scrubber. The fact that these buttons were missing caused unnecessary friction. 
+Additionally, fast-forward and rewind buttons made a comeback after we realized how much they mattered, especially for users accustomed to these controls on VCRs and cassette players. It became evident that some users relied on these more than the scrubber. The fact that these buttons were missing caused unnecessary friction.
 
 What seemed like small design choices ended up creating major issues. Lesson learned: incremental improvements based on real-time feedback are *vital* in Web3 design processes. Inclusivity needs to factor into every step, not just the final product test.
 
 ## Practicing True Inclusive Design in Web3
 
-One mistake anyone can make—and we made—is focusing only on technical accessibility. Just because something complies with standards doesn’t mean it’s inclusive. In fact, inclusivity in Web3 design is multi-layered. 
+One mistake anyone can make—and we made—is focusing only on technical accessibility. Just because something complies with standards doesn’t mean it’s inclusive. In fact, inclusivity in Web3 design is multi-layered.
 
 There are two levels of inclusive design:
 
@@ -75,17 +75,17 @@ True inclusion means engaging the actual users—people with disabilities—in t
 
 ## Moving from "Accessibility by Luck" to Intentional Inclusion
 
-A common trap in the Web3 design world is creating an accessible product entirely by chance—happy accidents, if you will. Your design shouldn’t accidentally work for disabled users; it should intentionally meet their needs. 
+A common trap in the Web3 design world is creating an accessible product entirely by chance—happy accidents, if you will. Your design shouldn’t accidentally work for disabled users; it should intentionally meet their needs.
 
 In our case, designing an accessible player wasn’t enough. We didn’t properly consult people with disabilities early in the process to inform the design better. Those missteps led to an inaccessible experience, even if it passed technical guidelines.
 
-In Web3, where decentralized and innovative platforms are rising, accessible design must move beyond mere compliance. Inclusivity has to be *intentional*. 
+In Web3, where decentralized and innovative platforms are rising, accessible design must move beyond mere compliance. Inclusivity has to be *intentional*.
 
 ## Shifting Left: Including Users Earlier in the Process
 
 In typical Web3 product development, you often see accessibility validation happening near the end, during testing or finalizing stages. This approach assumes users with disabilities will merely tell you where you went wrong. However, this gives all the power to the designer.
 
-What’s more effective—and truly inclusive—is shifting to an early user-centric design. Get user feedback while you’re still designing, not after you've built something. It’s about asking the right questions upfront: 
+What’s more effective—and truly inclusive—is shifting to an early user-centric design. Get user feedback while you’re still designing, not after you've built something. It’s about asking the right questions upfront:
 
 - What don’t we know about how users will interact with this product?
 - What assumptions can we challenge that may exclude someone?
