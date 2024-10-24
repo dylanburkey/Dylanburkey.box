@@ -35,7 +35,7 @@ The overarching focus was on leveraging web3 principles—such as decentralizati
 
 ## Visualizing Web3 & AI
 
-![Web3 and AI](@assets/images/ai-and-web3.webp)
+![Web3 and AI](@assets/images/web3-and-ai.webp)
 
 ---
 
