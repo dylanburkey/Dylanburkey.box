@@ -13,13 +13,15 @@ tags:
   - Regulatory Frameworks
   - Forbes Web3
 ogImage: ""
-description: Inclusive design is key in Web3, ensuring accessibility and equity. Discover how to embed these principles from the start for all users.
+description: How to Address AI Data Ownership with Web3
 canonicalURL: https://dylanburkey.com/posts/how-to-address-ai-data-ownership-with-web3
 ---
 
 
 
 ## Table of contents
+
+# How to Address AI Data Ownership with Web3
 
 Based on September 3, 2024 Forbes Web3 discussion (https://x.com/i/spaces/1MnGnDOEbymxO), several key points were raised to address concerns about data ownership and compensation in AI-driven content generation:
 
