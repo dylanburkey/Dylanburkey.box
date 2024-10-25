@@ -6,7 +6,7 @@ export const SITE: Site = {
   profile: "https://dylanburkey.box",
   desc: "Web3 and Web2 development and marketing are intersecting. Understanding the intersection is key to success.",
   title: "Dylan Burkey",
-  ogImage: "src/assets/images/index-og.webp",
+  ogImage: "/src/assets/images/index-og.webp",
   lightAndDarkMode: true,
   postPerIndex: 6,
   postPerPage: 6,
@@ -25,7 +25,7 @@ export const LOCALE = {
 } as const;
 
 export const LOGO_IMAGE = {
-  enable: false,
+  enable: false,3
   svg: true,
   width: 216,
   height: 46,
