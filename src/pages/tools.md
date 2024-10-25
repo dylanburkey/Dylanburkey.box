@@ -13,4 +13,4 @@ Take a look at the Raycast [**extensions** ](https://www.raycast.com/store), I p
 
 ---
 
-**I'll get to the rest when I have time...there are websites that need to be built or saved from themselves. Peace.
+**I'll get to the rest when I have time...there are websites that need to be built or saved from themselves. Peace.**
