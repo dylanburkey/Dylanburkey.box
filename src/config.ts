@@ -8,8 +8,8 @@ export const SITE: Site = {
   title: "Dylan Burkey",
   ogImage: "dylan-burkey.jpg",
   lightAndDarkMode: true,
-  postPerIndex: 4,
-  postPerPage: 3,
+  postPerIndex: 6,
+  postPerPage: 6,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
   showArchives: true,
   editPost: {
