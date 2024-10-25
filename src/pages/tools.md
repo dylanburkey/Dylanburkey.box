@@ -5,10 +5,12 @@ title: "Tools"
 
 ## Web3 Marketing, Development, and Ecosystem Tools
 
-Below is a collection of some of the most important tools I use on a day to day basis.
+Will be adding a list of tools for different ecosystems and purposes shortly. Below are my big five that I would have a difficult time working without.
 
-### Productivity on OSX
+1[. **Raycast** ](https://www.raycast.com/) If you are on OSX and have not tried Raycast you are waisting so much valuable time. The OOB (Out Of Box) spotlight offered by Apple is terrible. Raycast makes life far easier with extensions for just about everything under the sun.
 
-- Raycast
-  - If you are on a Mac and running OSX. You need to get Raycast. The amount of time this application has saved me has to be in the months now. It's a replacment for oob (out of box) spotlight utiliy.
-- Martha
+Take a look at the Raycast [**extensions** ](https://www.raycast.com/store), I promise there is something there for you. Raycast has AI baked in with the ability to switch between models.
+
+---
+
+**I'll get to the rest when I have time...there are websites that need to be built or saved from themselves. Peace.
