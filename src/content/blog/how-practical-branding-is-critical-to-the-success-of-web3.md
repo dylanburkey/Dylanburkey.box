@@ -1,7 +1,7 @@
 ---
 title: How Practical Branding Is Critical to the Success of Web3
 author: Dylan Burkey
-pubDatetime: 2024-10-25T09:17:19Z
+pubDatetime: 2024-10-25T10:12:19Z
 slug: how-practical-branding-is-critical-to-the-success-of-web3
 featured: true
 draft: false
