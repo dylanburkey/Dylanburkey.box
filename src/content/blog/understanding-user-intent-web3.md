@@ -26,16 +26,21 @@ canonicalURL: https://dylanburkey.com/posts/understanding-user-intent-web3/
 
 # Web3 User Experience: Measuring and Improving What Matters
 
-The world of Web3 is innovating rapidly, and user experience (UX) is more important than ever. Gerry McGovern's talk at "An Event Apart" in Denver 2017 shines a much-needed spotlight on the best way to measure and improve the customer experience. McGovern presented a robust framework for tackling this issue, showcasing actionable strategies to streamline digital interaction. His honest, no-frills speaking style takes on bloated web designs and delivers direct solutions for a more user-friendly experience that works in Web3's rapidly expanding landscape.
+The world of Web3 is innovating rapidly, and user experience (UX) is more important than ever. Gerry McGovern's talk at "An Event Apart" in Denver 2017 shines a much-needed spotlight on the best way to measure and improve the customer experience. McGovern presented a robust framework for tackling this issue, showcasing actionable strategies to streamline digital interaction. I was lucky enough to attend this event and left this talk with goosebumps. His honest, no bullshit speaking style takes on bloated web designs and delivers direct solutions for a more user-friendly experience that works in Web3's rapidly expanding landscape.
 
 In this blog post, I’ll break down the essential parts of McGovern’s insightful talk and point out how measuring the customer experience—and taking consistent action—can benefit your UX strategy in Web3. Here’s something to watch if you want to hear McGovern speak directly:
 
-**Click to watch**
+[**Click the photo or this text to watch the video. Fun with youtube API**](https://www.youtube.com/watch?v=cdpMiMc1ErQ)
 [![Web3 User Experience](https://i.ytimg.com/vi_webp/cdpMiMc1ErQ/sddefault.webp
 )](https://www.youtube.com/watch?v=cdpMiMc1ErQ)
-**Click to watch**
+[**Click the photo or this text to watch the video. Fun with youtube API**](https://www.youtube.com/watch?v=cdpMiMc1ErQ)
 
-It’s a lively and humorous presentation, but more than that, it’s about real-world experience and data-driven decisions that translate into a better user journey.
+McGovern is funny, engaging and can articulate the often stupid choices we as marketers, developers, designers and everyone else make daily.
+
+>I’ve never worked on a project where a company asked me to reduce content, build overly complex systems, or just keep adding features for the sake of development.
+ If you’ve been in a corporate environment, you know that **if anyone spots any white space on a website, someone will want to fill it.** It doesn’t matter what the solution is; that white space will be utilized!
+You might find yourself in multiple meetings discussing how to address this white space. Sometimes, it even leads to collaboration across departments to find a solution. But here’s the thing: **white space doesn’t always need a solution.**
+  it’s about real-world experience and data-driven decisions that translate into a better user journey.
 
 ### Using Videos to Kickstart Engagement
 
@@ -47,7 +52,7 @@ Videos have long been known to engage and inform simultaneously, and digital des
 
 One of McGovern’s key points is how website owners can misinterpret user interactions without proper understanding of user intent. He highlighted how, on travel websites, many users focus too much on navigation, clicking around menus without completing their task. But is this good or bad?
 
-Web statistics alone, like “clicks,” fail to explain why users are clicking. More clicks don’t necessarily mean better engagement. If people are lost in a maze of navigation and aren’t finding what they need, then your site is failing, even if the metrics say otherwise. In Web3 UX, where users expect to interact with decentralized apps (dApps) and token-based ecosystems, navigation must be seamless, otherwise, trust—and engagement—drops quickly.
+>Web statistics alone, like “clicks,” fail to explain why users >are clicking. More clicks don’t necessarily mean better engagement. If people are lost in a maze of navigation and aren’t finding what they need, then your site is failing, even if the metrics say otherwise. In Web3 UX, where users expect to interact with decentralized apps (dApps) and token-based ecosystems, navigation must be seamless, otherwise, trust—and engagement—drops quickly.
 
 ### Understanding the Why Behind User Actions
 
