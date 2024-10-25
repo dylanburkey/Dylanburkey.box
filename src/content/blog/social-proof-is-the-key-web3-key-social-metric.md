@@ -1,5 +1,5 @@
 ---
-title: How to Address AI Data Ownership with Web3
+title: Social Proof - Measuring Social Success for Web3
 author: Dylan Burkey
 pubDatetime: 2024-10-25T09:17:19Z
 slug: social-proof-is-the-key-web3-key-social-metric
