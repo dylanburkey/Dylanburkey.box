@@ -20,7 +20,7 @@
     --color-card-muted: 74, 78, 134;
     --color-border: 177, 47, 50;
   }
-  
+
 
   #sun-svg,
   html[data-theme="dark"] #moon-svg {
@@ -126,4 +126,15 @@
   .focus-outline {
     @apply outline-2 outline-offset-1 outline-skin-fill focus-visible:no-underline focus-visible:outline-dashed;
   }
+}
+.blog-figure {
+  margin: 0.375em 0;
+}
+.figcaption-style {
+  background: firebrick;
+  width: 100%;
+  justify-content: center;
+  display: flex;
+  color: #eee;
+  padding: 0.375rem 0;
 }

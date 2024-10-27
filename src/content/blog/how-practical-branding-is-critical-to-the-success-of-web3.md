@@ -15,6 +15,8 @@ tags:
 ogImage: "ai-and-web3-og.png"
 description: Web3 is moving at such a fast pace the practical branding is often overlooked. Brands will make or break Web3, we must get this right.
 canonicalURL: https://www.dylanburkey.box/posts/how-practical-branding-is-critical-to-the-success-of-web3
+postImage: https://www.spellbrand.com/wp-content/uploads/2012/11/branding-101-guide1.jpg
+postImageDesc: Practical Branding for Web3
 ---
 
 ### Table of contents

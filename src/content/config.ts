@@ -22,6 +22,8 @@ const blog = defineCollection({
         .or(z.string())
         .optional(),
       description: z.string(),
+      postImage: z.string().optional(),
+      postImageDesc: z.string().optional(),
       canonicalURL: z.string().optional(),
       editPost: z
         .object({
