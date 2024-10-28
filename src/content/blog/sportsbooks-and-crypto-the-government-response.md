@@ -1,7 +1,7 @@
 ---
 title: From Sportsbooks to Crypto The Strange Parallels of US Regulation
 author: Dylan Burkey
-pubDatetime: 2024-10-27T09:19:19Z
+pubDatetime: 2024-10-28T09:19:19Z
 slug: sportsbooks-and-crypto-legislative-blunders
 featured: true
 draft: false
