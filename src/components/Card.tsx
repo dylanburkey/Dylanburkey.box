@@ -59,7 +59,7 @@ export default function Card({ href, tags, frontmatter, secHeading = true }: Pro
       </a>
       <Datetime pubDatetime={pubDatetime} modDatetime={modDatetime} className="pt-3" />
       <p className="text-lg mt-3">{description}</p>
-      <aside role="complementary" className="tags mt-5 pt-3">
+   {/* <   <aside role="complementary" className="tags mt-5 pt-3">
         <strong className="pb-3">Post tags:</strong>
       {frontmatter.tags && frontmatter.tags.length > 0 && (
               <ul className="flex flex-wrap gap-2 mt-2">
@@ -72,7 +72,7 @@ export default function Card({ href, tags, frontmatter, secHeading = true }: Pro
               ))}
               </ul>
             )}
-      </aside>
+      </aside> */}
     </li>
   );
 }
