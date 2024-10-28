@@ -140,3 +140,19 @@
   color: #eee;
   padding: 0.375rem 0;
 }
+@media (min-width: 640px) {
+  nav:where(.astro-3ef6ksr2) {
+      padding-top: 0;
+      padding-bottom: 0;
+  }
+}
+
+@media (min-width: 87.5rem ) {
+  section,
+  footer,
+  header,
+  main,
+  hr {
+    max-width: 75vw;
+  }
+}
