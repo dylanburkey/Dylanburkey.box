@@ -19,11 +19,9 @@ canonicalURL: https://dylanburkey.box/posts/sportsbooks-and-crypto-legislative-b
 ---
 ![Growing up in Costa Rica had many perks!](@assets/images/costa-rica/the-beautiful-beach-costa-rica.jpg "Dylan and Bill Burkey golfingin Costa Rica")
 
-### Table of contents
-
-
-
 ##  The US Government's War on Innovation: A Tale of Two Industries
+
+### Table of contents
 
 Remember the early days of the internet? That Wild West era where anything went? That's kind of how it was for online sports betting and cryptocurrency in the US.  Both emerged in a hazy legal landscape, riddled with confusion and ripe for exploitation.
 
@@ -34,7 +32,7 @@ This isn't just some abstract observation for me. It's personal. When I was 10, 
 ![Growing up in Costa Rica had many perks!](@assets/images/dylan-burkey-and-family-in-costa-rica.jpg "Dylan Burkey enjoying Costa")
 
 
-## The U.S Governments Attempts Regulation
+### The U.S Governments Attempts Regulation
 
 Over the next decade, I had a front-row seat to the chaos.  Stupidity, greed, incompetence – you name it, I saw it.  It all came to a head around 2012 when the US government started threatening to arrest US citizens working in the offshore gambling industry.  My dad finally quit, but not before witnessing the rise and fall of some truly bizarre characters.
 
@@ -57,9 +55,9 @@ But here's the thing: this slow, reactive approach has real-world consequences. 
 
 The US has a history of being a leader in technology and innovation.  But when it comes to online sports betting and crypto, we've been playing catch-up.  It's time for clearer, more proactive regulations that foster growth instead of hindering it.  Let's learn from the past and create a future where innovation can thrive.
 
-### Stand with Crypto: Paving the Way for Technological Innovation
+### StandwithCrypto.org: Paving the Way for Technological Innovation
 
-The future of technology is being shaped by decentralized innovation, and cryptocurrency is at the forefront of this movement. Stand With Crypto (https://standwithcrypto.org), a bipartisan organization, is dedicated to ensuring the United States remains a global leader in this exciting new era.
+The future of technology is being shaped by decentralized innovation, and cryptocurrency is at the forefront of this movement. [Stand With Crypto](https://example.com/stand-with-crypto), a bipartisan organization, is dedicated to ensuring the United States remains a global leader in this exciting new era.
 
 #### Beyond Politics: A Shared Vision for the Future
 
