@@ -13,7 +13,7 @@ tags:
   - Government Legislation
   - Cryptocurrency Legislation
   - Election 2024
-ogImage: "@assets/images/dylan-burkey-and-family-in-costa-rica.jpg"
+ogImage: "https://www.dylanburkey.box/_astro/dylan-burkey-and-family-in-costa-rica.B7cFRa4p_Z1Y0cRA.webp"
 description: From online sports betting to crypto, the US government's slow, reactive approach has stifled innovation. It's time for change.
 canonicalURL: https://dylanburkey.box/posts/sportsbooks-and-crypto-legislative-blunders
 ---
