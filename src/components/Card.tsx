@@ -25,7 +25,7 @@ export default function Card({ href, tags, frontmatter, secHeading = true }: Pro
 
   return (
     <li className="my-6">
-      <a
+       <a
         href={href}
         className="inline-block text-xl font-medium text-skin-accent decoration-dashed underline-offset-4 focus-visible:no-underline focus-visible:underline-offset-0"
         rel="noopener"
@@ -39,24 +39,21 @@ export default function Card({ href, tags, frontmatter, secHeading = true }: Pro
 
 
 
-{postImage && (
-    <figure className="blog-figure">
-        <img
+{/* ///  <figure className="blog-figure">
+     <img
             loading="lazy"
             src={postImage}
             alt={title}
             title={title}
             width="800"
             height="281"
-            srcSet={`${postImage} 800w, ${postImageSmall} 400w`} // Example for responsive images
-            sizes="(max-width: 800px) 100vw, 800px" // Adjusts size for different viewports
             onError={(e) => { e.target.onerror = null; e.target.src = 'fallback-image.jpg'; }} // Fallback image
         />
         <figcaption className="figcaption-style text-sm">
             {postImageDesc}
         </figcaption>
     </figure>
-)}
+)} */}
 
 
       </a>
