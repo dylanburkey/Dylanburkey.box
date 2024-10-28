@@ -1,9 +1,9 @@
 ---
-title: Elevating User Experience in Web3 Overcoming Development Pitfalls
+title: Elevating User Experience in Web3 - Overcoming Development Pitfalls
 author: Dylan Burkey
 pubDatetime: 2024-10-21T05:17:19Z
 slug: overcoming-development-pitfalls-in-web3
-featured: true
+featured: false
 draft: false
 tags:
   - web3
@@ -17,6 +17,8 @@ tags:
 ogImage: "https://lh3.googleusercontent.com/gg/ACM6BItPbeFuCUaVDbpNUaFDOOKNE4JADwvJryRPxfUZRu3FSywY1eo-4acSq8lO23TqqLuYBOYUx7Qf4JzQ8zJL3Xd_zjt8dKVCycGTRR6rfq7kTMuXlRVQym6pps0BIbr0ljCAtcnuLY5CEPASj57VstXwhZVM0lvaNBzmOFAjH1pjpgpH3ww"
 description: Web3 is a rapidly growing field, and it's important to understand how users interact with it.
 canonicalURL: https://dylanburkey.box/posts/overcoming-development-pitfalls-in-web3/
+postImgDes:
+PostImg:
 ---
 
 

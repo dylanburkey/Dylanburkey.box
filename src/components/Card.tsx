@@ -20,14 +20,14 @@ export default function Card({ href, tags, frontmatter, secHeading = true }: Pro
 
   const headerProps = {
     style: { viewTransitionName: slugifyStr(title) },
-    className: "text-lg font-medium decoration-dashed hover:underline",
+    className: "text-2xl font-bold decoration-dashed pb-2 hover:underline",
   };
 
   return (
     <li className="my-6">
       <a
         href={href}
-        className="inline-block text-lg font-medium text-skin-accent decoration-dashed underline-offset-4 focus-visible:no-underline focus-visible:underline-offset-0"
+        className="inline-block text-xl font-medium text-skin-accent decoration-dashed underline-offset-4 focus-visible:no-underline focus-visible:underline-offset-0"
         rel="noopener"
         title={title}
       >
@@ -39,24 +39,36 @@ export default function Card({ href, tags, frontmatter, secHeading = true }: Pro
 
 
 
-        <figure className="blog-figure">
-          <img src={postImage} alt={title} />
-            <figcaption className="figcaption-style">
-
-         {postImageDesc}
-            </figcaption>
-        </figure>
+{postImage && (
+    <figure className="blog-figure">
+        <img
+            loading="lazy"
+            src={postImage}
+            alt={title}
+            title={title}
+            width="800"
+            height="281"
+            srcSet={`${postImage} 800w, ${postImageSmall} 400w`} // Example for responsive images
+            sizes="(max-width: 800px) 100vw, 800px" // Adjusts size for different viewports
+            onError={(e) => { e.target.onerror = null; e.target.src = 'fallback-image.jpg'; }} // Fallback image
+        />
+        <figcaption className="figcaption-style text-sm">
+            {postImageDesc}
+        </figcaption>
+    </figure>
+)}
 
 
       </a>
-      <Datetime pubDatetime={pubDatetime} modDatetime={modDatetime} />
-      <p>{description}</p>
-      <aside role="complementary" class="tags">
+      <Datetime pubDatetime={pubDatetime} modDatetime={modDatetime} className="pt-3" />
+      <p className="text-lg mt-3">{description}</p>
+      <aside role="complementary" className="tags mt-5 pt-3">
+        <strong className="pb-3">Post tags:</strong>
       {frontmatter.tags && frontmatter.tags.length > 0 && (
-              <ul className="flex flex-wrap gap-2">
+              <ul className="flex flex-wrap gap-2 mt-2">
               {frontmatter.tags.map((tag) => (
-                <li key={tag} className="bg-gray-100 rounded px-2 py-1 text-sm">
-                  <a href={`/tags/${slugifyStr(tag)}`} className=" text-skin-base hover:underline">
+                <li key={tag} className="bg-slate-600 rounded px-2 py-1 text-sm">
+                  <a href={`/tags/${slugifyStr(tag)}`} className=" text-skin-accent font-bold hover:underline">
                   {tag}
                   </a>
                 </li>

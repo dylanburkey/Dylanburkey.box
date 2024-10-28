@@ -128,7 +128,9 @@
   }
 }
 .blog-figure {
-  margin: 0.375em 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
 }
 .figcaption-style {
   background: firebrick;
