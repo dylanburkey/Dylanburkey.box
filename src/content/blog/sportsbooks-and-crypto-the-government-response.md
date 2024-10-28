@@ -1,21 +1,21 @@
 ---
 title: From Costa Rica to Crypto The Strange Parallels of US Regulation
 author: Dylan Burkey
-pubDatetime: 2024-10-28T09:19:19Z
-slug: sportsbooks-and-crypo-the-goverment-response
+pubDatetime: 2024-10-27T09:19:19Z
+slug: sportsbooks-and-crypto-legislative-blunders
 featured: true
 draft: false
-category: Crypto, Blockchain & Web3 Legistlaton
+category: Crypto, Blockchain & Web3 Legislation
 tags:
   - Web3
   - Blockchain
   - Crypto
   - Government Legislation
-  - Crypocurrency Legislation
+  - Cryptocurrency Legislation
   - Election 2024
 ogImage: "https://i.ytimg.com/vi_webp/cdpMiMc1ErQ/sddefault.webp"
-description:
-canonicalURL: https://dylanburkey.com/posts/crypto-legislaton-
+description: From online sports betting to crypto, the US government's slow, reactive approach has stifled innovation. It's time for change.
+canonicalURL: https://dylanburkey.com/posts/sportsbooks-and-crypto-legislative-blunders
 ---
 
 ## From Costa Rica to Crypto: The Strange Parallels of US Regulation
