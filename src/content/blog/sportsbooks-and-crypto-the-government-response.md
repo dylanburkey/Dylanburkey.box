@@ -15,7 +15,7 @@ tags:
   - Election 2024
 ogImage: "@assets/images/dylan-burkey-and-family-in-costa-rica.jpg"
 description: From online sports betting to crypto, the US government's slow, reactive approach has stifled innovation. It's time for change.
-canonicalURL: https://dylanburkey.com/posts/sportsbooks-and-crypto-legislative-blunders
+canonicalURL: https://dylanburkey.box/posts/sportsbooks-and-crypto-legislative-blunders
 ---
 ![Growing up in Costa Rica had many perks!](@assets/images/costa-rica/the-beautiful-beach-costa-rica.jpg "Dylan and Bill Burkey golfingin Costa Rica")
 
