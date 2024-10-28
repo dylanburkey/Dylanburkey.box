@@ -55,8 +55,8 @@ export default function Card({ href, tags, frontmatter, secHeading = true }: Pro
       {frontmatter.tags && frontmatter.tags.length > 0 && (
               <ul className="flex flex-wrap gap-2">
               {frontmatter.tags.map((tag) => (
-                <li key={tag} className="bg-gray-400 rounded px-2 py-1 text-sm">
-                  <a href={`/tags/${slugifyStr(tag)}`} className="text-skin-accent hover:underline">
+                <li key={tag} className="bg-gray-100 rounded px-2 py-1 text-sm">
+                  <a href={`/tags/${slugifyStr(tag)}`} className=" text-skin-base hover:underline">
                   {tag}
                   </a>
                 </li>
