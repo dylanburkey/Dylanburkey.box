@@ -17,11 +17,11 @@ ogImage: "https://www.dylanburkey.box/_astro/dylan-burkey-and-family-in-costa-ri
 description: From online sports betting to crypto, the US government's slow, reactive approach has stifled innovation. It's time for change.
 canonicalURL: https://dylanburkey.box/posts/sportsbooks-and-crypto-legislative-blunders
 ---
+### Table of contents
+
 ![Growing up in Costa Rica had many perks!](@assets/images/costa-rica/the-beautiful-beach-costa-rica.jpg "Dylan and Bill Burkey golfingin Costa Rica")
 
-##  The US Government's War on Innovation: A Tale of Two Industries
-
-### Table of contents
+## The US Government's War on Innovation: A Tale of Two Industries
 
 Remember the early days of the internet? That Wild West era where anything went? That's kind of how it was for online sports betting and cryptocurrency in the US.  Both emerged in a hazy legal landscape, riddled with confusion and ripe for exploitation.
 
