@@ -20,7 +20,7 @@ export default function Card({ href, tags, frontmatter, secHeading = true }: Pro
 
   const headerProps = {
     style: { viewTransitionName: slugifyStr(title) },
-    className: "text-2xl font-bold decoration-dashed pb-2 hover:underline",
+    className: "text-xl font-bold decoration-dashed pb-2 hover:underline",
   };
 
   return (
