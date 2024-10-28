@@ -18,7 +18,10 @@ description: From online sports betting to crypto, the US government's slow, rea
 canonicalURL: https://dylanburkey.com/posts/sportsbooks-and-crypto-legislative-blunders
 ---
 
-## From Costa Rica to Crypto: The Strange Parallels of US Regulation
+### Table of contents
+
+
+## The US Government's War on Innovation: A Tale of Two Industries
 
 Remember the early days of the internet? That Wild West era where anything went? That's kind of how it was for online sports betting and cryptocurrency in the US.  Both emerged in a hazy legal landscape, riddled with confusion and ripe for exploitation.
 
