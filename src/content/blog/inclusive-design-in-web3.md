@@ -14,7 +14,7 @@ tags:
   - Web3 SEO
 ogImage: ""
 description: Inclusive design is key in Web3, ensuring accessibility and equity. Discover how to embed these principles from the start for all users.
-canonicalURL: https://dylanburkey.com/posts/web3-inclusive-design-failure-success
+canonicalURL: https://dylanburkey.box/posts/web3-inclusive-design-failure-success
 ---
 
 # Web3 Inclusive Design: How Failure Can Shape Success
@@ -30,7 +30,7 @@ I was contracted to build a custom video player that would be an accessibility t
 
 We thought we had created a player that would meet all accessibility standards. Technically, we had. But during the development process—and more importantly, during usability testing—we realized we had crucial gaps. The player was nearly accessible, but it was not *truly* inclusive.
 
-What we learned was humbling but transformative.
+What we learned was humbling but transformation.
 
 ## Winning the Contract and Initial Setup
 
