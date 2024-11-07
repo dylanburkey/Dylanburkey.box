@@ -148,12 +148,50 @@
 }
 
 @media (min-width: 87.5rem ) {
-  section,
+  *>section,
   footer,
   header,
   main,
   hr {
-    max-width: 75vw;
-    margin: auto;
+    max-width: 60vw;
+   @apply mx-auto;
+   font-family: 'Roboto', system-ui, sans-serif;
+   font-size: 1rem;
   }
+  h1,h2,h3,h4 {
+    font-family: 'Roboto', system-ui, sans-serif;
+    font-weight: bold;
+  }
+  p {
+    font-family: 'Roboto', system-ui, sans-serif;
+  }
+}
+.roboto-light {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.roboto-regular {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.roboto-medium {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.roboto-bold {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.roboto-black {
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-style: normal;
 }
