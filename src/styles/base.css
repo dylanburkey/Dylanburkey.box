@@ -154,5 +154,6 @@
   main,
   hr {
     max-width: 75vw;
+    margin: auto;
   }
 }

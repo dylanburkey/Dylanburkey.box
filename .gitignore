@@ -5,6 +5,8 @@ dist/
 # dependencies
 node_modules/
 
+# Google Site Verification
+PUBLIC_GOOGLE_SITE_VERIFICATION=sAcppRItFCh_dFb5CC3P0vY6Ucv-_9t_QAdEoHG4zjQ
 # logs
 npm-debug.log*
 yarn-debug.log*
