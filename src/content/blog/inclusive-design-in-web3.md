@@ -3,7 +3,7 @@ title: Web3 Inclusive Design Failures and Success in Accessibility Strategies
 author: Dylan Burkey
 pubDatetime: 2024-10-23T05:17:19Z
 slug: overcoming-development-pitfalls-in-web3-user-experience
-featured: true
+featured: false
 draft: false
 tags:
   - Web3

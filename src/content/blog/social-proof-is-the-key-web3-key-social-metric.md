@@ -3,7 +3,7 @@ title: Social Proof - Measuring Social Success for Web3
 author: Dylan Burkey
 pubDatetime: 2024-10-25T09:17:19Z
 slug: social-proof-is-the-key-web3-key-social-metric
-featured: true
+featured: false
 draft: false
 tags:
   - Social Proof
