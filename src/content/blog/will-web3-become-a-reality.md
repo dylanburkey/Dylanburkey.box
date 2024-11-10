@@ -4,7 +4,7 @@ author: Dylan Burkey
 pubDatetime: 2024-11-05T09:19:19Z
 slug: will-web3-become-a-reality
 featured: true
-draft: true
+draft: false
 category: Web3
 tags:
   - Web3

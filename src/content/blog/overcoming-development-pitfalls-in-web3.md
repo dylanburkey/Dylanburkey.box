@@ -1,5 +1,5 @@
 ---
-title: Elevating User Experience in Web3 - Overcoming Development Pitfalls
+wstitle: Elevating User Experience in Web3 - Overcoming Development Pitfalls
 author: Dylan Burkey
 pubDatetime: 2024-10-21T05:17:19Z
 slug: overcoming-development-pitfalls-in-web3
