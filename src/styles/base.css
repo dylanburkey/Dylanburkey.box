@@ -117,6 +117,79 @@
     font-weight: var(--shiki-dark-font-weight) !important;
     text-decoration: var(--shiki-dark-text-decoration) !important;
   }
+
+  /* Root font size and fluid typography */
+  :root {
+    --fluid-min-width: 320;
+    --fluid-max-width: 1140;
+    --fluid-min-size: 16;
+    --fluid-max-size: 19;
+    --fluid-min-ratio: 1.2;
+    --fluid-max-ratio: 1.333;
+
+    font-size: clamp(
+      var(--fluid-min-size)px,
+      calc(1rem + ((1vw - (var(--fluid-min-width)px / 100)) * 100)),
+      var(--fluid-max-size)px
+    );
+  }
+
+  /* Modern, readable font stack */
+  body {
+    font-family: 
+      'Inter',
+      system-ui,
+      -apple-system,
+      BlinkMacSystemFont,
+      'Segoe UI',
+      'Roboto',
+      'Oxygen',
+      'Ubuntu',
+      'Cantarell',
+      'Fira Sans',
+      'Droid Sans',
+      'Helvetica Neue',
+      sans-serif;
+    font-feature-settings: "liga" 1, "kern" 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+
+  /* Article text styles */
+  article {
+    font-size: clamp(1rem, calc(0.95rem + 0.25vw), 1.25rem);
+    line-height: 1.65;
+    letter-spacing: -0.01em;
+  }
+
+  /* Fluid headings */
+  h1 {
+    font-size: clamp(2rem, calc(1.8rem + 2vw), 4rem);
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+  }
+
+  h2 {
+    font-size: clamp(1.5rem, calc(1.3rem + 1.5vw), 3rem);
+    line-height: 1.2;
+  }
+
+  h3 {
+    font-size: clamp(1.25rem, calc(1.1rem + 1vw), 2rem);
+    line-height: 1.3;
+  }
+
+  /* Paragraph spacing */
+  p {
+    margin-bottom: 1.5em;
+  }
+
+  /* Better link underlines */
+  a {
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.15em;
+  }
 }
 
 @layer components {

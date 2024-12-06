@@ -19,6 +19,8 @@ description: Web3 is a rapidly growing field, and it's important to understand h
 canonicalURL: https://dylanburkey.box/posts/overcoming-development-pitfalls-in-web3/
 postImgDes:
 PostImg:
+postImage: "https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg"
+postImageDesc: "Web3 Development - Overcoming common pitfalls"
 ---
 
 

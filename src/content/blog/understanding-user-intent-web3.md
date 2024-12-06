@@ -18,6 +18,8 @@ tags:
 ogImage: "https://i.ytimg.com/vi_webp/cdpMiMc1ErQ/sddefault.webp"
 description: Web3 is a rapidly growing field, and it's important to understand how users interact with it.
 canonicalURL: https://dylanburkey.com/posts/understanding-user-intent-web3/
+postImage: "https://i.ytimg.com/vi_webp/cdpMiMc1ErQ/sddefault.webp"
+postImageDesc: "Understanding User Intent in Web3"
 ---
 
 

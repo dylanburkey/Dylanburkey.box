@@ -1,7 +1,7 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https:/dylanburkey.box", // replace this with your deployed domain
+  website: "https:/dylanburkey.box",
   author: "Dylan Burkey",
   profile: "https://dylanburkey.box",
   desc: "Web3 and Web2 development and marketing are intersecting. Understanding the intersection is key to success.",

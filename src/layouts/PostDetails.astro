@@ -26,6 +26,7 @@ const {
   modDatetime,
   tags,
   editPost,
+  postImage,
 } = post.data;
 
 const { Content } = await post.render();
@@ -33,6 +34,14 @@ const { Content } = await post.render();
 const ogImageUrl = typeof ogImage === "string" ? ogImage : ogImage?.src;
 const ogUrl = new URL(
   ogImageUrl ?? `/posts/${slugifyStr(title)}.png`,
+  Astro.url.origin
+).href;
+
+const postImageUrl = typeof postImage === "string" 
+  ? postImage 
+  : (postImage as { src: string } | undefined)?.src;
+const formattedPostImageUrl = new URL(
+  postImageUrl ?? `/posts/${slugifyStr(title)}.png`,
   Astro.url.origin
 ).href;
 
@@ -86,6 +95,17 @@ const nextPost =
       editPost={editPost}
       postId={post.id}
     />
+    {
+      post.data.postImage && (
+        <div class="my-8">
+          <img
+            src={formattedPostImageUrl}
+            alt={post.data.postImageDesc || post.data.title}
+            class="rounded-lg w-full h-auto"
+          />
+        </div>
+      )
+    }
     <article id="article" class="prose mx-auto mt-8 max-w-3xl">
       <Content />
     </article>
