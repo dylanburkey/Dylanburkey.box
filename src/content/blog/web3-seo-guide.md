@@ -14,10 +14,10 @@ tags:
   - Search Engine Marketing
   - Social Media Marketing
 
-ogImage: "https://images.pexels.com/photos/265087/pexels-photo-265087.jpeg?auto=compress&cs=tinysrgb&w=800&h=400"
+ogImage: "/assets/web3-seo-marketing.jpg"
 description: Web3 is a new frontier for SEO. Here's how to get started.
 canonicalURL: https://www.dylanburkey.box/posts/web3-seo-guide
-postImage: "https://images.pexels.com/photos/265087/pexels-photo-265087.jpeg?auto=compress&cs=tinysrgb&w=800&h=400"
+postImage: "/assets/web3-seo-marketing.jpg"
 postImageDesc: "SEO Strategy and Analytics for Web3"
 ---
 
