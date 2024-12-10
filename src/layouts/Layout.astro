@@ -152,3 +152,33 @@ const structuredData = {
     <slot />
   </body>
 </html>
+
+<script>
+  if ("serviceWorker" in navigator) {
+    let refreshing = false;
+
+    // Handle service worker updates
+    navigator.serviceWorker.addEventListener('controllerchange', () => {
+      if (!refreshing) {
+        refreshing = true;
+        window.location.reload();
+      }
+    });
+
+    window.addEventListener("load", () => {
+      navigator.serviceWorker
+        .register("/sw.js")
+        .then((registration) => {
+          console.log("ServiceWorker registered: ", registration);
+
+          // Check for updates periodically
+          setInterval(() => {
+            registration.update();
+          }, 1000 * 60 * 60); // Check every hour
+        })
+        .catch((error) => {
+          console.log("ServiceWorker registration failed: ", error);
+        });
+    });
+  }
+</script>

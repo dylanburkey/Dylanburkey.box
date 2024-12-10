@@ -3,7 +3,7 @@ title: Will Web3 Become a Reality?
 author: Dylan Burkey
 pubDatetime: 2024-11-05T09:19:19Z
 slug: will-web3-become-a-reality
-featured: true
+featured: false
 draft: false
 category: Web3
 tags:
