@@ -20,6 +20,9 @@ postImageDesc: "Network connections visualization representing decentralized soc
 
 News accuracy becomes a critical issue in the modern digital world. With the increased cases of misinformation, bias, and censorship, the existing protocols of news dissemination and verification often cannot cope. It is where **decentralization** steps in—a new paradigm that can potentially change everything in news creation, verification, and distribution. Here is how decentralization may fix some of the greatest issues in modern journalism.
 
+### Table of contents
+
+
 ---
 
 ### 1. Transparent Provenance
