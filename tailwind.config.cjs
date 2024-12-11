@@ -78,4 +78,19 @@ module.exports = {
     },
   },
   plugins: [require("@tailwindcss/typography")],
+  purge: {
+    enabled: process.env.NODE_ENV === 'production',
+    content: [
+      './src/**/*.{astro,html,js,jsx,ts,tsx,vue,svelte}',
+      './src/**/*.md',
+    ],
+    options: {
+      safelist: [
+        /^prose/,  // Preserve prose classes
+        /^icon-/,  // Preserve icon classes
+        /^bg-skin-/,  // Preserve theme classes
+        /^text-skin-/
+      ]
+    }
+  }
 };
