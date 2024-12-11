@@ -58,7 +58,7 @@ Decentralized systems are uncensorable, ensuring news is accessible to everyone,
 
 ---
 
-## 5. Diversity of Viewpoints
+### 5. Diversity of Viewpoints
 
 Decentralization removes gatekeepers and allows a greater diversity of voices to contribute to the news landscape.
 
@@ -67,7 +67,7 @@ Decentralization removes gatekeepers and allows a greater diversity of voices to
 
 ---
 
-## 6. Incentivizing Truthfulness
+### 6. Incentivizing Truthfulness
 
 Decentralized systems align economic incentives with truthful journalism.
 
@@ -76,7 +76,7 @@ Decentralized systems align economic incentives with truthful journalism.
 
 ---
 
-## 7. Community Moderation
+### 7. Community Moderation
 
 Traditional editorial control can be highly centralized and biased. With decentralized networks, moderation is driven by the community:
 
@@ -85,7 +85,7 @@ Traditional editorial control can be highly centralized and biased. With decentr
 
 ---
 
-## 8. Verification Tools
+### 8. Verification Tools
 
 Decentralized systems provide powerful tools to improve news verification:
 
@@ -94,7 +94,7 @@ Decentralized systems provide powerful tools to improve news verification:
 
 ---
 
-## Transforming Journalism with Decentralization
+### Transforming Journalism with Decentralization
 
 Decentralization doesn’t just challenge misinformation—it forms a framework of trust, transparency, and resilience in journalism. By enabling transparent provenance, incentivizing accuracy, democratizing content creation, and moderating effectively, decentralization may redefine how we consume and trust news.
 
