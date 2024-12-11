@@ -97,12 +97,15 @@ const nextPost =
     />
     {
       post.data.postImage && (
-        <div class="my-8">
-          <img
-            src={formattedPostImageUrl}
-            alt={post.data.postImageDesc || post.data.title}
-            class="rounded-lg w-full h-auto"
-          />
+        <div class="my-8 max-h-[500px] overflow-hidden">
+          <picture>
+            <source srcset={formattedPostImageUrl} type="image/webp" />
+            <img
+              src={formattedPostImageUrl}
+              alt={post.data.postImageDesc || post.data.title}
+              class="rounded-lg w-full object-cover"
+            />
+          </picture>
         </div>
       )
     }

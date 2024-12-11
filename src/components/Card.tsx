@@ -9,9 +9,10 @@ export interface Props {
   href?: string;
   frontmatter: CollectionEntry<"blog">["data"];
   secHeading?: boolean;
+  index?: number;
 }
 
-export default function Card({ href, frontmatter, secHeading = true }: Props) {
+export default function Card({ href, frontmatter, secHeading = true, index = 0 }: Props) {
   const { title, pubDatetime, postImage, postImageDesc, modDatetime, description } = frontmatter;
 
   const headerProps = {
@@ -24,15 +25,18 @@ export default function Card({ href, frontmatter, secHeading = true }: Props) {
       <div className="flex gap-4">
         {postImage && (
           <div className="flex-shrink-0 w-48">
-            <img
-              src={postImage}
-              alt={postImageDesc || title}
-              className="rounded-lg object-cover w-full h-32"
-              loading="lazy"
-              width="800"
-              height="400"
-              decoding="async"
-            />
+            <picture>
+              <source srcSet={postImage} type="image/jpeg" />
+              <img
+                src={postImage}
+                alt={postImageDesc || title}
+                className="rounded-lg object-cover w-full h-32"
+                loading={index <= 2 ? "eager" : "lazy"}
+                width="800"
+                height="400"
+                decoding={index <= 2 ? "sync" : "async"}
+              />
+            </picture>
           </div>
         )}
         <div className="flex-grow">
@@ -55,4 +59,3 @@ export default function Card({ href, frontmatter, secHeading = true }: Props) {
     </li>
   );
 }
-
