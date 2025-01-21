@@ -63,7 +63,6 @@ In summary this con has devistated Crypto markets and is destryoying Web3. Proje
 
 This is unfortuantly just one of the large issues plaguing Web3.
 
-
 ### What else is wrong with Web3?
 
 We have this idea that using the same tools and techniques that drive Web2 will work for Web3. This is a fatal flaw akin to putting sqaure wheels on your car. It just doesn't work and what makes this issue even worse is the quality of the projects following this paradigmn. Web3 is littered with poorly developed websites and dapps. Built by the cheapest labor a company can hire in order to rush projects out the door before the competition.
@@ -135,15 +134,14 @@ I have mixed and matched the following headless CMS products with all core JavaS
 
 - Some projects do require it, but from my observations, it's necessary for about 45% or fewer.
 - Accessibility: We've failed to make Web3 inclusive, repeating the mistakes of Web2:
-    - Font sizes are too small.
-    - Contrast between elements is insufficient.
-    - ARIA roles are neglected.
-    - The dismissive attitude that "blind people aren't trading crypto or using Web3" exemplifies the mentality that has hindered Web3's progress for five years.
+  - Font sizes are too small.
+  - Contrast between elements is insufficient.
+  - ARIA roles are neglected.
+  - The dismissive attitude that "blind people aren't trading crypto or using Web3" exemplifies the mentality that has hindered Web3's progress for five years.
 - "Performance doesn't matter."
-    - This statement is shocking. I could write a book on the importance of performance.
-    - Performance is crucial—if anyone tells you otherwise, end the conversation.
+  - This statement is shocking. I could write a book on the importance of performance.
+  - Performance is crucial—if anyone tells you otherwise, end the conversation.
 
 > What I loved about Web2 is that we pushed web development forward. Desktop become responsive sites, we made so much progress. Now we seem fine with React and Tailwinds.
->
 
 We need sites that put the user first and challenge the industry. Every Web3 front end is a carbon copy of the next. This is becoming the issue with Web3 sites connecting to wallets. The service provided it subpar, nobody seems to care. We have you’re money, we are the cool new project and you’ll get an airdrop.

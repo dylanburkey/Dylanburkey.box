@@ -19,8 +19,6 @@ postImage: "https://images.pexels.com/photos/8386434/pexels-photo-8386434.jpeg?a
 postImageDesc: "AI and Data Ownership in the Web3 Era"
 ---
 
-
-
 ### Table of contents
 
 ## How to Address AI Data Ownership with Web3
@@ -47,11 +45,10 @@ The overarching focus was on leveraging web3 principles—such as decentralizati
 
 This table powerfully demonstrates the application of web3 principles to tackle challenges in AI-driven content creation. By harnessing these innovative concepts, we will undoubtedly create a more equitable and transparent AI ecosystem. While implementing these solutions demands collaboration across various stakeholders, including developers, policymakers, and content creators, we are confident in our ability to overcome any obstacles and revolutionize the AI landscape.
 
-
-| Web3 Principle | Application to AI | Potential Benefits | Challenges |
-| --- | --- | --- | --- |
-| Decentralization | Building decentralized AI systems | Enhanced transparency and user control over data | Complexity in implementation and coordination |
-| Collective Ownership | Data DAOs for AI training data | Creators can collectively own and control their data | Establishing governance structures for DAOs |
-| Tokenization | Fair compensation models for AI-generated content | Equitable payment for data, model, and application owners | Determining fair value distribution |
-| User Empowerment | Education on responsible AI tool usage | Shared understanding of data rights and attribution | Ensuring widespread adoption and understanding |
-| Regulatory Frameworks | New regulations for AI in content creation | Protection of data rights and fair compensation | Balancing innovation with regulation |
+| Web3 Principle        | Application to AI                                 | Potential Benefits                                        | Challenges                                     |
+| --------------------- | ------------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------- |
+| Decentralization      | Building decentralized AI systems                 | Enhanced transparency and user control over data          | Complexity in implementation and coordination  |
+| Collective Ownership  | Data DAOs for AI training data                    | Creators can collectively own and control their data      | Establishing governance structures for DAOs    |
+| Tokenization          | Fair compensation models for AI-generated content | Equitable payment for data, model, and application owners | Determining fair value distribution            |
+| User Empowerment      | Education on responsible AI tool usage            | Shared understanding of data rights and attribution       | Ensuring widespread adoption and understanding |
+| Regulatory Frameworks | New regulations for AI in content creation        | Protection of data rights and fair compensation           | Balancing innovation with regulation           |

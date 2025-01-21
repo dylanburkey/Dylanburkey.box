@@ -59,7 +59,7 @@ const structuredData = {
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
-    <link rel='dns-prefetch' href='//fonts.googleapis.com' />
+    <link rel="dns-prefetch" href="//fonts.googleapis.com" />
 
     <link rel="canonical" href={canonicalURL} />
 
@@ -133,19 +133,25 @@ const structuredData = {
     }
 
     <ViewTransitions />
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-R8GFE58WR2"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-R8GFE58WR2"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
 
-  gtag('config', 'G-R8GFE58WR2');
-</script>
+      gtag("config", "G-R8GFE58WR2");
+    </script>
     <script is:inline src="/toggle-theme.js" async></script>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
     <link rel="icon" type="image/webp" href="/assets/favicon.webp" />
   </head>
   <body>
@@ -158,7 +164,7 @@ const structuredData = {
     let refreshing = false;
 
     // Handle service worker updates
-    navigator.serviceWorker.addEventListener('controllerchange', () => {
+    navigator.serviceWorker.addEventListener("controllerchange", () => {
       if (!refreshing) {
         refreshing = true;
         window.location.reload();
@@ -168,15 +174,18 @@ const structuredData = {
     window.addEventListener("load", () => {
       navigator.serviceWorker
         .register("/sw.js")
-        .then((registration) => {
+        .then(registration => {
           console.log("ServiceWorker registered: ", registration);
 
           // Check for updates periodically
-          setInterval(() => {
-            registration.update();
-          }, 1000 * 60 * 60); // Check every hour
+          setInterval(
+            () => {
+              registration.update();
+            },
+            1000 * 60 * 60
+          ); // Check every hour
         })
-        .catch((error) => {
+        .catch(error => {
           console.log("ServiceWorker registration failed: ", error);
         });
     });

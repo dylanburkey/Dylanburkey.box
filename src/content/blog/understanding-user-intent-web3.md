@@ -22,9 +22,7 @@ postImage: "https://i.ytimg.com/vi_webp/cdpMiMc1ErQ/sddefault.webp"
 postImageDesc: "Understanding User Intent in Web3"
 ---
 
-
 ## Table of contents
-
 
 # Web3 User Experience: Measuring and Improving What Matters
 
@@ -33,16 +31,15 @@ The world of Web3 is innovating rapidly, and user experience (UX) is more import
 In this blog post, I’ll break down the essential parts of McGovern’s insightful talk and point out how measuring the customer experience—and taking consistent action—can benefit your UX strategy in Web3. Here’s something to watch if you want to hear McGovern speak directly:
 
 [**Click the photo or this text to watch the video. Fun with youtube API**](https://www.youtube.com/watch?v=cdpMiMc1ErQ)
-[![Web3 User Experience](https://i.ytimg.com/vi_webp/cdpMiMc1ErQ/sddefault.webp
-)](https://www.youtube.com/watch?v=cdpMiMc1ErQ)
+[![Web3 User Experience](https://i.ytimg.com/vi_webp/cdpMiMc1ErQ/sddefault.webp)](https://www.youtube.com/watch?v=cdpMiMc1ErQ)
 [**Click the photo or this text to watch the video. Fun with youtube API**](https://www.youtube.com/watch?v=cdpMiMc1ErQ)
 
 McGovern is funny, engaging and can articulate the often stupid choices we as marketers, developers, designers and everyone else make daily.
 
->I’ve never worked on a project where a company asked me to reduce content, build overly complex systems, or just keep adding features for the sake of development.
- If you’ve been in a corporate environment, you know that **if anyone spots any white space on a website, someone will want to fill it.** It doesn’t matter what the solution is; that white space will be utilized!
-You might find yourself in multiple meetings discussing how to address this white space. Sometimes, it even leads to collaboration across departments to find a solution. But here’s the thing: **white space doesn’t always need a solution.**
-  it’s about real-world experience and data-driven decisions that translate into a better user journey.
+> I’ve never worked on a project where a company asked me to reduce content, build overly complex systems, or just keep adding features for the sake of development.
+> If you’ve been in a corporate environment, you know that **if anyone spots any white space on a website, someone will want to fill it.** It doesn’t matter what the solution is; that white space will be utilized!
+> You might find yourself in multiple meetings discussing how to address this white space. Sometimes, it even leads to collaboration across departments to find a solution. But here’s the thing: **white space doesn’t always need a solution.**
+> it’s about real-world experience and data-driven decisions that translate into a better user journey.
 
 ### Using Videos to Kickstart Engagement
 
@@ -54,7 +51,7 @@ Videos have long been known to engage and inform simultaneously, and digital des
 
 One of McGovern’s key points is how website owners can misinterpret user interactions without proper understanding of user intent. He highlighted how, on travel websites, many users focus too much on navigation, clicking around menus without completing their task. But is this good or bad?
 
->Web statistics alone, like “clicks,” fail to explain why users >are clicking. More clicks don’t necessarily mean better engagement. If people are lost in a maze of navigation and aren’t finding what they need, then your site is failing, even if the metrics say otherwise. In Web3 UX, where users expect to interact with decentralized apps (dApps) and token-based ecosystems, navigation must be seamless, otherwise, trust—and engagement—drops quickly.
+> Web statistics alone, like “clicks,” fail to explain why users >are clicking. More clicks don’t necessarily mean better engagement. If people are lost in a maze of navigation and aren’t finding what they need, then your site is failing, even if the metrics say otherwise. In Web3 UX, where users expect to interact with decentralized apps (dApps) and token-based ecosystems, navigation must be seamless, otherwise, trust—and engagement—drops quickly.
 
 ### Understanding the Why Behind User Actions
 
@@ -123,10 +120,11 @@ When constructing decentralized platforms and dApps, remote testing should be a 
 Focusing on saving your customers time, simplifying their path, and ensuring their success will pay off in any Web3 experience. Gerry McGovern’s talk underscores the need for UX designers and developers to prioritize tasks, time, and success rates rather than fancy features. When your Web3 platform makes a user’s life easier, they’re far more likely to become loyal participants.
 
 ---
+
 **Takeaways for Web3 User Experience**:
+
 - Measure success and time for core tasks.
 - Collaborate across teams to create intuitive paths for users.
 - Eliminate confusing content, jargon, and useless images.
 - Focus on real user behavior and be prepared to simplify when needed.
 - Always remember: the simplest path to a task’s completion is usually the best one.
-

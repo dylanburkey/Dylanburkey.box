@@ -5,10 +5,7 @@ title: "About"
 
 ## Dylan Burkey - Senior Web Marketing Engineer - Web3 Forbes Legacy Pass Holder
 
-
-
 ![Dylan Burkey - Senior Web Marketing Manager](@assets/images/dylan-burkey.jpg)
-
 
 Who the heck is he and why should I listen to him?
 
@@ -26,6 +23,7 @@ was a large influence as he has ran Digital Marketing companies my entire life.
 My background has always been under the "Marketing" umbrella. In my old "9-5" job I ran:
 
 - Technical Marketing
+
   - Google Analytics
   - Google Tag Manager
   - VWO

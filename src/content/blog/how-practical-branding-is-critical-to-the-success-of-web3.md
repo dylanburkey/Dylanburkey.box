@@ -21,7 +21,6 @@ postImageDesc: Practical Branding for Web3
 
 ### Table of contents
 
-
 ## How Practical Branding Is Critical to the Success of Web3
 
 With the rise of Web3, practical branding has never been more crucial. Whether you're building a decentralized app, a blockchain-based company, or a digital asset like NFTs, the way people perceive your brand is going to play a massive role in your success. But here's the thing: branding isn't just about logos or color schemes. It's about the whole experience—every interaction someone has with your company, your message, and how your product fits into their world.

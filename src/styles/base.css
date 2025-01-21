@@ -21,7 +21,6 @@
     --color-border: 177, 47, 50;
   }
 
-
   #sun-svg,
   html[data-theme="dark"] #moon-svg {
     display: none;
@@ -128,16 +127,18 @@
     --fluid-max-ratio: 1.333;
 
     font-size: clamp(
-      var(--fluid-min-size)px,
-      calc(1rem + ((1vw - (var(--fluid-min-width)px / 100)) * 100)),
-      var(--fluid-max-size)px
+      var(--fluid-min-size) px,
+      calc(1rem + ((1vw - (var(--fluid-min-width) px / 100)) * 100)),
+      var(--fluid-max-size) px
     );
   }
 
   /* Modern, readable font stack */
   body {
-    font-family: 'Inter', sans-serif;
-    font-feature-settings: "liga" 1, "kern" 1;
+    font-family: "Inter", sans-serif;
+    font-feature-settings:
+      "liga" 1,
+      "kern" 1;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     text-rendering: optimizeLegibility;
@@ -152,24 +153,23 @@
 
   /* Fluid headings */
   h1 {
-    font-family: 'Chakra Petch', sans-serif;
+    font-family: "Chakra Petch", sans-serif;
     font-size: clamp(2rem, calc(1.8rem + 2vw), 4rem);
     line-height: 1.1;
     letter-spacing: -0.02em;
   }
 
   h2 {
-    font-family: 'Chakra Petch', sans-serif;
+    font-family: "Chakra Petch", sans-serif;
     font-size: clamp(1.5rem, calc(1.3rem + 1.5vw), 3rem);
     line-height: 1.2;
   }
 
   h3 {
-    font-family: 'Chakra Petch', sans-serif;
+    font-family: "Chakra Petch", sans-serif;
     font-size: clamp(1.25rem, calc(1.1rem + 1vw), 2rem);
     line-height: 1.3;
   }
-
 
   /* Better link underlines */
   a {

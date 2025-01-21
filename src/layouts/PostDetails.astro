@@ -37,9 +37,10 @@ const ogUrl = new URL(
   Astro.url.origin
 ).href;
 
-const postImageUrl = typeof postImage === "string" 
-  ? postImage 
-  : (postImage as { src: string } | undefined)?.src;
+const postImageUrl =
+  typeof postImage === "string"
+    ? postImage
+    : (postImage as { src: string } | undefined)?.src;
 const formattedPostImageUrl = new URL(
   postImageUrl ?? `/posts/${slugifyStr(title)}.png`,
   Astro.url.origin
@@ -172,7 +173,8 @@ const nextPost =
       }
       {
         nextPost && (
-          <a title="next"
+          <a
+            title="next"
             href={`/posts/${nextPost.slug}`}
             class="flex w-full justify-end gap-1 text-right hover:opacity-75 sm:col-start-2"
           >

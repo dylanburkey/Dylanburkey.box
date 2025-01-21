@@ -23,14 +23,13 @@ postImageDesc: "Inclusive Design in Web3 - Making technology accessible for ever
 
 ## Table of contents
 
-
 Failure is a teacher, not an end point. If we’re willing to admit our mistakes, we create the perfect backdrop for growth and improvement. I’ve had my fair share of failures, but one particular experience while designing an accessible video player opened my eyes to areas I had previously overlooked in Web3 inclusive design.
 
 ## Learning from Failure: The Video Player Case Study
 
 I was contracted to build a custom video player that would be an accessibility triumph. The organization that my friend we worked with had a highly specific audience: users who were visually impaired. Our goal was not just to make it "usable" for them, but to ensure a truly inclusive and fully accessible experience. We carried our prior successes, our knowledge, and our confidence into the project. But we missed something critical.
 
-We thought we had created a player that would meet all accessibility standards. Technically, we had. But during the development process—and more importantly, during usability testing—we realized we had crucial gaps. The player was nearly accessible, but it was not *truly* inclusive.
+We thought we had created a player that would meet all accessibility standards. Technically, we had. But during the development process—and more importantly, during usability testing—we realized we had crucial gaps. The player was nearly accessible, but it was not _truly_ inclusive.
 
 What we learned was humbling but transformation.
 
@@ -62,7 +61,7 @@ We heard our users loud and clear. It was time to head back to the drawing board
 
 Additionally, fast-forward and rewind buttons made a comeback after we realized how much they mattered, especially for users accustomed to these controls on VCRs and cassette players. It became evident that some users relied on these more than the scrubber. The fact that these buttons were missing caused unnecessary friction.
 
-What seemed like small design choices ended up creating major issues. Lesson learned: incremental improvements based on real-time feedback are *vital* in Web3 design processes. Inclusivity needs to factor into every step, not just the final product test.
+What seemed like small design choices ended up creating major issues. Lesson learned: incremental improvements based on real-time feedback are _vital_ in Web3 design processes. Inclusivity needs to factor into every step, not just the final product test.
 
 ## Practicing True Inclusive Design in Web3
 
@@ -73,7 +72,7 @@ There are two levels of inclusive design:
 1. **Inclusion in the product.** This is what we commonly refer to as 'accessible design.' It ensures that people with disabilities can use the product.
 2. **Inclusion in the process.** This means involving users with disabilities as co-designers, not just testers. Specifically, including their experiences while crafting the solution ensures that we understand their needs on a deeper level.
 
-True inclusion means engaging the actual users—people with disabilities—in the ideation, early design, and testing process. This isn’t just about ticking an accessibility box but creating innovations that *work* for everyone, *from the get-go*.
+True inclusion means engaging the actual users—people with disabilities—in the ideation, early design, and testing process. This isn’t just about ticking an accessibility box but creating innovations that _work_ for everyone, _from the get-go_.
 
 ## Moving from "Accessibility by Luck" to Intentional Inclusion
 
@@ -81,7 +80,7 @@ A common trap in the Web3 design world is creating an accessible product entirel
 
 In our case, designing an accessible player wasn’t enough. We didn’t properly consult people with disabilities early in the process to inform the design better. Those missteps led to an inaccessible experience, even if it passed technical guidelines.
 
-In Web3, where decentralized and innovative platforms are rising, accessible design must move beyond mere compliance. Inclusivity has to be *intentional*.
+In Web3, where decentralized and innovative platforms are rising, accessible design must move beyond mere compliance. Inclusivity has to be _intentional_.
 
 ## Shifting Left: Including Users Earlier in the Process
 
@@ -95,7 +94,7 @@ What’s more effective—and truly inclusive—is shifting to an early user-cen
 
 ## Embracing Diversity by Default
 
-One of the most powerful philosophies in inclusive design is, "Nothing About Us Without Us." It encapsulates a critical concept: don’t design for people with disabilities *without* including their voices, perspectives, and experiences.
+One of the most powerful philosophies in inclusive design is, "Nothing About Us Without Us." It encapsulates a critical concept: don’t design for people with disabilities _without_ including their voices, perspectives, and experiences.
 
 Accessible design in Web3 must reflect the diverse community it serves. This means that inclusivity needs to become the default, baked into the process, and not an afterthought. In a decentralized Web3 future, diversity in design means creating products that can adapt to any user—no matter their abilities, technologies, or location.
 
@@ -103,6 +102,6 @@ Accessible design in Web3 must reflect the diverse community it serves. This mea
 
 The key takeaway from this experience? Web3 inclusive design should empower all users, making sure that failure doesn't stem from exclusion or oversight. Instead of using accessibility checklists as the final step, the process needs to involve people with disabilities from the outset. Their contributions directly shape better outputs, ensuring inclusivity for all.
 
-As we continue shaping the future of the decentralized web, we must make space: space for diversity in thought, experience, and ability. Only then can we truly create digital products that work for *everyone*.
+As we continue shaping the future of the decentralized web, we must make space: space for diversity in thought, experience, and ability. Only then can we truly create digital products that work for _everyone_.
 
 Intentional inclusion isn’t just necessary for legal compliance—it’s fundamental to responsible innovation in Web3. The future is decentralized; let’s make sure it’s also accessible for all.

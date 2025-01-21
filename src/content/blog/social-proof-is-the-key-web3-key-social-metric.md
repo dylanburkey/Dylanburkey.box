@@ -21,7 +21,6 @@ postImageDesc: "Social Proof in Web3 Marketing"
 
 ### Table of contents
 
-
 ## Social Proof is the Key Web3 Social Media Metric
 
 In the Web3 landscape, where decentralization and privacy reign supreme, measuring success requires a new set of tools. This is where social proof emerges as a fundamental metric. With data privacy concerns on the rise, traditional metrics struggle to capture the essence of user trust and engagement. Social proof, however, remains a steadfast indicator, showcasing community trust and credibility as the heart of successful Web3 projects.
