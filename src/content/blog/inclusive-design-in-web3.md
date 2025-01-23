@@ -14,7 +14,7 @@ tags:
   - Web3 SEO
 ogImage: ""
 description: Inclusive design is key in Web3, ensuring accessibility and equity. Discover how to embed these principles from the start for all users.
-canonicalURL: https://dylanburkey.box/posts/web3-inclusive-design-failure-success
+canonicalURL: https://dylanburkey.com/posts/web3-inclusive-design-failure-success
 postImage: "https://images.pexels.com/photos/196645/pexels-photo-196645.jpeg?auto=compress&cs=tinysrgb&w=800&h=400"
 postImageDesc: "Inclusive Design in Web3 - Making technology accessible for everyone"
 ---

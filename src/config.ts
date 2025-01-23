@@ -1,9 +1,9 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https:/dylanburkey.box",
+  website: "https://dylanburkey.com",
   author: "Dylan Burkey",
-  profile: "https://dylanburkey.box",
+  profile: "https://dylanburkey.com",
   desc: "Web3 and Web2 development and marketing are intersecting. Understanding the intersection is key to success.",
   title: "Dylan Burkey",
   ogImage: "https://assets.codepen.io/1315/index-og.webp",
@@ -88,7 +88,7 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "WebbieSocial",
-    href: "https://dylanburkey.box",
+    href: "https://dylanburkey.com",
     linkTitle: `${SITE.title} on Snapchat`,
     active: false,
   },

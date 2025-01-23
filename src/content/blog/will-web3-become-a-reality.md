@@ -11,9 +11,9 @@ tags:
   - Blockchain
   - Crypto
   - Election 2024
-ogImage: "https://www.dylanburkey.box/_astro/dylan-burkey-and-family-in-costa-rica.B7cFRa4p_Z1Y0cRA.webp"
+ogImage: "https://www.dylanburkey.com/_astro/dylan-burkey-and-family-in-costa-rica.B7cFRa4p_Z1Y0cRA.webp"
 description: Web3 has been touted as the next big digital innovation. After four years Web3 has failed to capture a wide audience. Will Web3 ever go mainstream?
-canonicalURL: https://dylanburkey.box/posts/will-web3-become-a-reality
+canonicalURL: https://dylanburkey.com/posts/will-web3-become-a-reality
 postImage: "https://images.pexels.com/photos/8369590/pexels-photo-8369590.jpeg?auto=compress&cs=tinysrgb&w=800&h=400"
 postImageDesc: "The Future of Web3 Technology"
 ---

@@ -16,7 +16,7 @@ tags:
 
 ogImage: "/assets/web3-seo-marketing.jpg"
 description: Web3 is a new frontier for SEO. Here's how to get started.
-canonicalURL: https://www.dylanburkey.box/posts/web3-seo-guide
+canonicalURL: https://www.dylanburkey.com/posts/web3-seo-guide
 postImage: "/assets/web3-seo-marketing.jpg"
 postImageDesc: "SEO Strategy and Analytics for Web3"
 ---

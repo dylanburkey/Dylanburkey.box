@@ -14,7 +14,7 @@ tags:
   - Measuring Social Success
 ogImage: "ai-and-web3-og.png"
 description: Unlock Web3 success with social proof! Trust the community and boost engagement by using this essential metric in the decentralized world.
-canonicalURL: https://www.dylanburkey.box/posts/social-proof-is-the-key-web3-key-social-metric/
+canonicalURL: https://www.dylanburkey.com/posts/social-proof-is-the-key-web3-key-social-metric/
 postImage: "https://images.pexels.com/photos/7681091/pexels-photo-7681091.jpeg?auto=compress&cs=tinysrgb&w=800&h=400"
 postImageDesc: "Social Proof in Web3 Marketing"
 ---

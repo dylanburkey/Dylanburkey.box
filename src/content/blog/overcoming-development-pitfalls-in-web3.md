@@ -16,7 +16,7 @@ tags:
   - Web3 SEO
 ogImage: "https://lh3.googleusercontent.com/gg/ACM6BItPbeFuCUaVDbpNUaFDOOKNE4JADwvJryRPxfUZRu3FSywY1eo-4acSq8lO23TqqLuYBOYUx7Qf4JzQ8zJL3Xd_zjt8dKVCycGTRR6rfq7kTMuXlRVQym6pps0BIbr0ljCAtcnuLY5CEPASj57VstXwhZVM0lvaNBzmOFAjH1pjpgpH3ww"
 description: Web3 is a rapidly growing field, and it's important to understand how users interact with it.
-canonicalURL: https://dylanburkey.box/posts/overcoming-development-pitfalls-in-web3/
+canonicalURL: https://dylanburkey.com/posts/overcoming-development-pitfalls-in-web3/
 postImgDes:
 PostImg:
 postImage: "https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg"
