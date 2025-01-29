@@ -12,7 +12,7 @@ export default defineConfig({
   site: SITE.website,
   output: "server",
   adapter: netlify({
-    imageCDN: true
+    imageCDN: false
   }),
   integrations: [
     tailwind({
