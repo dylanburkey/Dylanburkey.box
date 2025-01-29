@@ -1,10 +1,12 @@
 ---
-import { SITE } from "@config";
-import Breadcrumbs from "@components/Breadcrumbs.astro";
-import Footer from "@components/Footer.astro";
-import Header from "@components/Header.astro";
-import Layout from "./Layout.astro";
 import { Image } from "astro:assets";
+import Layout from "./Layout.astro";
+import Header from "@components/Header.astro";
+import Footer from "@components/Footer.astro";
+import Tag from "@components/Tag.astro";
+import Datetime from "@components/Datetime";
+import type { CollectionEntry } from "astro:content";
+import { slugifyStr } from "@utils/slugify";
 
 export interface Props {
   frontmatter: {
@@ -13,75 +15,64 @@ export interface Props {
     image?: {
       src: string;
       alt: string;
+      width: number;
+      height: number;
     };
-    connections?: {
-      title: string;
-      url: string;
-      icon?: string;
-    }[];
+    connections?: Array<{ title: string; url: string }>;
   };
 }
 
 const { frontmatter } = Astro.props;
 ---
 
-<Layout title={frontmatter.title} description={frontmatter.description}>
+<Layout title={frontmatter.title}>
   <Header activeNav="about" />
-  <Breadcrumbs />
   <main id="main-content">
     <section id="about" class="prose mb-28 max-w-3xl prose-img:border-0">
       <h1 class="text-2xl tracking-wider sm:text-3xl">{frontmatter.title}</h1>
-      <div class="about-content">
-        {frontmatter.image && (
-          <div class="float-left mr-8 mb-4 w-64">
-            <Image
-              src={frontmatter.image.src}
-              alt={frontmatter.image.alt}
-              width={300}
-              height={300}
-              loading="eager"
-              class="rounded-lg shadow-lg"
-            />
-          </div>
-        )}
-        <slot />
+      <div class="flex flex-col sm:flex-row gap-8">
+        {
+          frontmatter.image && (
+            <div class="flex-shrink-0">
+              <Image
+                src={frontmatter.image.src}
+                alt={frontmatter.image.alt}
+                width={frontmatter.image.width}
+                height={frontmatter.image.height}
+                loading="eager"
+                class="rounded-lg shadow-lg"
+              />
+            </div>
+          )
+        }
+        <div class="flex-grow">
+          <slot />
+          {
+            frontmatter.connections && (
+              <div class="mt-8">
+                <h2 class="text-lg font-semibold mb-4">Connect with me</h2>
+                <div class="flex flex-wrap gap-4">
+                  {frontmatter.connections.map(({ title, url }) => (
+                    <a
+                      href={url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      class="inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md shadow-sm text-white bg-skin-accent hover:bg-skin-accent-hover focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-skin-accent"
+                    >
+                      {title}
+                    </a>
+                  ))}
+                </div>
+              </div>
+            )
+          }
+        </div>
       </div>
-      {
-        frontmatter.connections && (
-          <div class="clear-both flex flex-wrap gap-4 mt-8">
-            {frontmatter.connections.map(connection => (
-              <a
-                href={connection.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                class="flex items-center gap-2 px-4 py-2 bg-skin-card rounded-full hover:bg-skin-card-muted transition-colors"
-              >
-                {connection.icon && <i class={connection.icon} />}
-                <span>{connection.title}</span>
-              </a>
-            ))}
-          </div>
-        )
-      }
     </section>
   </main>
   <Footer />
 </Layout>
 
 <style>
-  #about {
-    @apply pb-6 pt-8;
-  }
-  .about-content {
-    @apply prose-lg leading-relaxed;
-  }
-  .social-wrapper {
-    @apply mt-4 flex flex-col sm:flex-row sm:items-center;
-  }
-  .social-links {
-    @apply mb-1 mr-2 whitespace-nowrap sm:mb-0;
-  }
-  .link-button {
-    @apply p-2 hover:rotate-6 sm:p-1;
-  }
+  /* Additional styles if needed */
 </style>

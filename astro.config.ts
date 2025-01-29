@@ -1,26 +1,25 @@
 import { defineConfig } from "astro/config";
+import mdx from "@astrojs/mdx";
 import tailwind from "@astrojs/tailwind";
 import react from "@astrojs/react";
 import remarkToc from "remark-toc";
 import remarkCollapse from "remark-collapse";
 import sitemap from "@astrojs/sitemap";
 import { SITE } from "./src/config";
-import netlify from '@astrojs/netlify';
+import netlify from "@astrojs/netlify";
 
-// https://astro.build/config
 export default defineConfig({
   site: SITE.website,
-  output: 'hybrid',
+  output: "server",
   adapter: netlify({
-    edgeMiddleware: true,
-    imageCDN: true
+    imageCDN: true,
   }),
   integrations: [
     tailwind({
       applyBaseStyles: false,
-      config: { path: './tailwind.config.cjs' }
     }),
     react(),
+    mdx(),
     sitemap(),
   ],
   markdown: {
@@ -34,21 +33,13 @@ export default defineConfig({
       ],
     ],
     shikiConfig: {
-      themes: { light: "min-light", dark: "night-owl" },
+      theme: "one-dark-pro",
       wrap: true,
     },
   },
-  experimental: {
-    contentLayer: true
-  },
   vite: {
     optimizeDeps: {
-      exclude: ['@resvg/resvg-js']
+      exclude: ["@resvg/resvg-js"],
     },
-    build: {
-      rollupOptions: {
-        external: ['@resvg/resvg-js']
-      }
-    }
-  }
+  },
 });

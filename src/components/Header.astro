@@ -10,8 +10,8 @@ export interface Props {
 const { activeNav } = Astro.props;
 ---
 
-<header class="fixed-header">
-  <a id="skip-to-content" href="#main-content">Skip to content</a>
+<header class="sticky-header">
+  <a id="skip-to-content" href="#main-content" class="sr-only focus:not-sr-only">Skip to content</a>
   <div class="nav-container">
     <div class="top-nav-wrap">
       <a href="/" class="logo">
@@ -82,12 +82,10 @@ const { activeNav } = Astro.props;
               ariaLabel="search"
               title="Search"
             >
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                class="scale-125 sm:scale-100"
-                ><path
+              <svg xmlns="http://www.w3.org/2000/svg" class="scale-125 sm:scale-100">
+                <path
                   d="M19.023 16.977a35.13 35.13 0 0 1-1.367-1.384c-.372-.378-.596-.653-.596-.653l-2.8-1.337A6.962 6.962 0 0 0 16 9c0-3.859-3.14-7-7-7S2 5.141 2 9s3.14 7 7 7c1.763 0 3.37-.66 4.603-1.739l1.337 2.8s.275.224.653.596c.387.363.896.854 1.384 1.367l1.358 1.392.604.646 2.121-2.121-.646-.604c-.379-.372-.885-.866-1.391-1.36zM9 14c-2.757 0-5-2.243-5-5s2.243-5 5-5 5 2.243 5 5-2.243 5-5 5z"
-                ></path>
+                />
               </svg>
             </LinkButton>
           </li>
@@ -119,121 +117,97 @@ const { activeNav } = Astro.props;
 </header>
 
 <style>
-  .fixed-header {
-    @apply w-full bg-skin-fill fixed top-0 z-50 backdrop-blur-sm bg-opacity-90;
+  .sticky-header {
+    @apply sticky top-0 z-50 w-full bg-skin-fill/90 backdrop-blur shadow-sm;
   }
-  
+
   .nav-container {
     @apply mx-auto max-w-3xl px-4;
   }
 
   .top-nav-wrap {
-    @apply relative flex items-center justify-between py-4;
+    @apply flex items-center justify-between py-3;
   }
 
   .logo {
-    @apply absolute py-1 text-xl font-semibold sm:static sm:text-2xl;
+    @apply text-xl font-semibold sm:text-2xl;
+  }
+
+  .nav-menu {
+    @apply relative flex items-center;
   }
 
   .hamburger-menu {
-    @apply self-end p-2 sm:hidden;
+    @apply p-2 sm:hidden;
   }
 
   .hamburger-menu svg {
-    @apply h-6 w-6 scale-125 fill-skin-base;
+    @apply h-6 w-6 fill-skin-base;
   }
 
-  nav {
-    @apply flex w-full flex-col items-center sm:ml-2 sm:flex-row sm:justify-end sm:space-x-4 sm:py-0;
+  .menu-items {
+    @apply hidden sm:flex sm:items-center sm:gap-4;
   }
 
-  nav ul {
-    @apply mt-4 grid w-44 grid-cols-2 grid-rows-4 gap-x-2 gap-y-2 sm:ml-0 sm:mt-0 sm:w-auto sm:gap-x-5 sm:gap-y-0;
+  .menu-items li {
+    @apply relative;
   }
 
-  nav ul li {
-    @apply col-span-2 flex items-center justify-center;
+  .menu-items a {
+    @apply block py-2 text-sm font-medium hover:text-skin-accent sm:py-0;
   }
 
-  nav ul li a {
-    @apply w-full px-4 py-3 text-center font-medium hover:text-skin-accent sm:my-0 sm:px-2 sm:py-1;
-  }
-
-  nav ul li:nth-child(4) a {
-    @apply w-auto;
-  }
-
-  nav ul li:nth-child(4),
-  nav ul li:nth-child(5) {
-    @apply col-span-1;
-  }
-
-  nav a.active {
-    @apply text-skin-accent decoration-wavy decoration-1 underline-offset-4;
-  }
-
-  nav a.active svg {
-    @apply fill-skin-accent;
-  }
-
-  nav button {
-    @apply p-1;
-  }
-
-  nav button svg {
-    @apply h-6 w-6 fill-skin-base hover:fill-skin-accent;
+  .menu-items a.active {
+    @apply text-skin-accent;
   }
 
   #theme-btn {
-    @apply p-3 sm:p-1;
+    @apply p-2;
   }
 
   #theme-btn svg {
-    @apply scale-125 hover:rotate-12 sm:scale-100;
-  }
-
-  .menu-icon line {
-    @apply transition-transform duration-200;
-  }
-
-  .menu-icon.expanded .line:first-child {
-    @apply translate-y-2 rotate-45;
-  }
-
-  .menu-icon.expanded .line:nth-child(2) {
-    @apply opacity-0;
-  }
-
-  .menu-icon.expanded .line:last-child {
-    @apply -translate-y-2 -rotate-45;
-  }
-
-  .display-none {
-    @apply hidden;
+    @apply h-6 w-6 scale-125 hover:rotate-12 sm:scale-100;
   }
 
   @media (max-width: 640px) {
     .menu-items {
-      @apply absolute right-0 top-14 z-50 min-w-[200px] rounded-md border border-skin-line bg-skin-fill p-4 shadow-lg;
+      @apply absolute right-0 top-12 z-50 flex min-w-[200px] flex-col rounded-md border border-skin-line bg-skin-fill p-4 shadow-lg;
       display: none;
     }
 
-    .menu-items.expanded {
-      display: block;
+    .menu-items.show {
+      display: flex;
+    }
+
+    .menu-items li {
+      @apply w-full;
+    }
+
+    .menu-items a {
+      @apply w-full px-4 py-2 text-center;
     }
   }
 </style>
 
 <script>
-  // Toggle menu
   const menuBtn = document.querySelector(".hamburger-menu");
-  const menuIcon = document.querySelector(".menu-icon");
-  const menuItems = document.querySelector("#menu-items");
+  const menuItems = document.querySelector(".menu-items");
 
   menuBtn?.addEventListener("click", () => {
-    const menuExpanded = menuBtn.getAttribute("aria-expanded") === "true";
-    menuIcon?.classList.toggle("expanded");
-    menuBtn.setAttribute("aria-expanded", menuExpanded ? "false" : "true");
-    menuItems?.classList.toggle("expanded");
+    menuItems?.classList.toggle("show");
+    const expanded = menuBtn.getAttribute("aria-expanded") === "true";
+    menuBtn.setAttribute("aria-expanded", (!expanded).toString());
+  });
+
+  // Close menu when clicking outside
+  document.addEventListener("click", (event) => {
+    const target = event.target as Node;
+    const isMenuBtn = target.closest(".hamburger-menu");
+    const isMenuItems = target.closest(".menu-items");
+    
+    if (!isMenuBtn && !isMenuItems && menuItems?.classList.contains("show")) {
+      menuItems.classList.remove("show");
+      menuBtn?.setAttribute("aria-expanded", "false");
+    }
   });
 </script>
