@@ -13,8 +13,7 @@ export default defineConfig({
   output: 'hybrid',
   adapter: netlify({
     edgeMiddleware: true,
-    imageCDN: true,
-    functionPerRoute: true
+    imageCDN: true
   }),
   integrations: [
     tailwind({
