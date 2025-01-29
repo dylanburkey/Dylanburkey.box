@@ -1,6 +1,7 @@
 ---
 layout: ../layouts/ToolsLayout.astro
 title: "Tools"
+description: "Essential Web3 marketing, development, and ecosystem tools for modern developers, featuring recommended applications and utilities for enhanced productivity."
 ---
 
 ## Web3 Marketing, Development, and Ecosystem Tools

@@ -1,6 +1,22 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "Dylan Burkey - About"
+description: "Senior Web Engineer with 24+ years of experience in enterprise web development, Forbes Legacy Pass Holder, and marketing specialist focused on delivering exceptional digital experiences."
+canonicalURL: https://dylanburkey.com/about
+image: "/assets/images/dylan-burkey.jpg"
+connections:
+  - title: "LinkedIn"
+    url: "https://www.linkedin.com/in/dylanburkey/"
+    icon: "i-simple-icons-linkedin"
+  - title: "GitHub"
+    url: "https://github.com/dylanburkey"
+    icon: "i-simple-icons-github"
+  - title: "Twitter"
+    url: "https://twitter.com/dylanburkey"
+    icon: "i-simple-icons-twitter"
+  - title: "Forbes Legacy Pass"
+    url: "https://www.forbes.com/connect/profile/dylan-burkey/"
+    icon: "i-simple-icons-forbes"
 ---
 
 ## Summary

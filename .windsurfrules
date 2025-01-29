@@ -1,0 +1,25 @@
+1, speak to me in English.
+2. This is an astro project.
+3. follow all astro conventions and best practices.
+4. Use modern css for all styles.
+5. Make sure to generate cricial css.
+6. Use markdown and .mdx for posts.
+7. if the project includes tailwinds, use tailwinds.
+8. All code needs to be accessible and responsive.
+9. All code should be commented where necessary.
+10. All code should be formatted using prettier.
+11. All code should be linted using eslint.
+12. All code should be tested using jest.
+13. Code will be deployed to multiple platforms.
+14. Cloudflare pages is our project deployment platform.
+15. We will be extending the functionallity of this site.
+16. All meta tags for seo, social and performance need to be included.
+17. Performance is critical.
+18. all code should dry, and be as readable as possible.
+19. all code should be optimized for performance.
+20. we may use python in the code library.
+21. we may use typescript in the code library.
+22. we will be using astro in the code library.
+23. we will be using tailwinds in the code library.
+24. we will be introducting charts and dashboards.
+25. we will be using wagmi for web3.
