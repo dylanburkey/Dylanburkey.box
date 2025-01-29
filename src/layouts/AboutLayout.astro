@@ -41,6 +41,8 @@ const { frontmatter } = Astro.props;
                 height={frontmatter.image.height}
                 loading="eager"
                 class="rounded-lg shadow-lg"
+                format="webp"
+                quality={80}
               />
             </div>
           )

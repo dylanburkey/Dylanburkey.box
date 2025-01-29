@@ -23,7 +23,8 @@ pnpm-debug.log*
 
 # ignore .astro directory
 .astro
-
+ .netlify
+  .netlify/assets/
 # yarn
 .yarn/*
 !.yarn/patches
