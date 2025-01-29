@@ -18,6 +18,7 @@ export default defineConfig({
   integrations: [
     tailwind({
       applyBaseStyles: false,
+      config: { path: './tailwind.config.cjs' }
     }),
     react(),
     sitemap(),
@@ -38,6 +39,16 @@ export default defineConfig({
     },
   },
   experimental: {
-    contentLayer: true,
+    contentLayer: true
   },
+  vite: {
+    optimizeDeps: {
+      exclude: ['@resvg/resvg-js']
+    },
+    build: {
+      rollupOptions: {
+        external: ['@resvg/resvg-js']
+      }
+    }
+  }
 });

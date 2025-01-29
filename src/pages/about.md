@@ -3,7 +3,9 @@ layout: ../layouts/AboutLayout.astro
 title: "Dylan Burkey - About"
 description: "Senior Web Engineer with 24+ years of experience in enterprise web development, Forbes Legacy Pass Holder, and marketing specialist focused on delivering exceptional digital experiences."
 canonicalURL: https://dylanburkey.com/about
-image: "/assets/images/dylan-burkey.jpg"
+image: 
+  src: "/assets/images/dylan-burkey.jpg"
+  alt: "Dylan Burkey"
 connections:
   - title: "LinkedIn"
     url: "https://www.linkedin.com/in/dylanburkey/"
