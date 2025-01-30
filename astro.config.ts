@@ -10,9 +10,8 @@ import netlify from "@astrojs/netlify";
 
 export default defineConfig({
   site: SITE.website,
-  output: "server",
   adapter: netlify({
-    imageCDN: false
+    imageCDN: false,
   }),
   integrations: [
     tailwind({

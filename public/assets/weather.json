@@ -1,25 +1,25 @@
 {
-    "weather": [
-        {
-            "location": "New York",
-            "temperature": "15°C",
-            "condition": "Sunny",
-            "humidity": "60%",
-            "clothing": "Light jacket"
-        },
-        {
-            "location": "Miami",
-            "temperature": "28°C",
-            "condition": "Sunny",
-            "humidity": "70%",
-            "clothing": "Shorts and t-shirt"
-        },
-        {
-            "location": "Boston",
-            "temperature": "10°C",
-            "condition": "Cloudy",
-            "humidity": "65%",
-            "clothing": "Sweater"
-        }
-    ]
+  "weather": [
+    {
+      "location": "New York",
+      "temperature": "15°C",
+      "condition": "Sunny",
+      "humidity": "60%",
+      "clothing": "Light jacket"
+    },
+    {
+      "location": "Miami",
+      "temperature": "28°C",
+      "condition": "Sunny",
+      "humidity": "70%",
+      "clothing": "Shorts and t-shirt"
+    },
+    {
+      "location": "Boston",
+      "temperature": "10°C",
+      "condition": "Cloudy",
+      "humidity": "65%",
+      "clothing": "Sweater"
+    }
+  ]
 }
