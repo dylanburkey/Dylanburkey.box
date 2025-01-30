@@ -33,6 +33,11 @@ const CACHE_TIMES = {
 function getResourceType(request) {
   const url = new URL(request.url);
 
+  // Skip caching big_wallets.json
+  if (url.pathname.endsWith('/assets/big_wallets.json')) {
+    return null;
+  }
+
   if (STATIC_ASSETS.includes(url.pathname)) {
     return "static";
   }
