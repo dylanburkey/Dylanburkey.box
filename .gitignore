@@ -13,7 +13,12 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
-
+.github/
+.github/actions/
+.netlify/
+.netlify/assets/
+.netlify/functions/
+.netlify/redirects/ 
 # environment variables
 .env
 .env.production
@@ -23,8 +28,14 @@ pnpm-debug.log*
 
 # ignore .astro directory
 .astro
- .netlify
+ .netlify*    
   .netlify/assets/
+  .netlify/functions/
+  .netlify/redirects/
+
+# ignore .vercel directory
+.vercel*
+  .vercel/output    
 # yarn
 .yarn/*
 !.yarn/patches
