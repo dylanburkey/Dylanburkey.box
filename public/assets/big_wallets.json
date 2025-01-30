@@ -1,0 +1,2538 @@
+{
+    "token_statistics": {
+        "ETH": {
+            "long_count": 23,
+            "short_count": 11
+        },
+        "ENA": {
+            "long_count": 13,
+            "short_count": 12
+        },
+        "BTC": {
+            "long_count": 19,
+            "short_count": 11
+        },
+        "JUP": {
+            "long_count": 0,
+            "short_count": 1
+        },
+        "XRP": {
+            "long_count": 13,
+            "short_count": 15
+        },
+        "HYPE": {
+            "long_count": 11,
+            "short_count": 10
+        },
+        "DOGE": {
+            "long_count": 19,
+            "short_count": 14
+        },
+        "NEAR": {
+            "long_count": 1,
+            "short_count": 0
+        },
+        "SPX": {
+            "long_count": 0,
+            "short_count": 1
+        },
+        "GRIFFAIN": {
+            "long_count": 2,
+            "short_count": 2
+        },
+        "ZEREBRO": {
+            "long_count": 2,
+            "short_count": 4
+        },
+        "VIRTUAL": {
+            "long_count": 2,
+            "short_count": 2
+        },
+        "BADGER": {
+            "long_count": 0,
+            "short_count": 1
+        },
+        "FARTCOIN": {
+            "long_count": 10,
+            "short_count": 7
+        },
+        "PENGU": {
+            "long_count": 7,
+            "short_count": 5
+        },
+        "ANIME": {
+            "long_count": 2,
+            "short_count": 2
+        },
+        "S": {
+            "long_count": 1,
+            "short_count": 2
+        },
+        "MELANIA": {
+            "long_count": 0,
+            "short_count": 1
+        },
+        "SOL": {
+            "long_count": 16,
+            "short_count": 9
+        },
+        "TRUMP": {
+            "long_count": 7,
+            "short_count": 5
+        },
+        "kBONK": {
+            "long_count": 7,
+            "short_count": 5
+        },
+        "SUI": {
+            "long_count": 6,
+            "short_count": 7
+        },
+        "UNI": {
+            "long_count": 2,
+            "short_count": 2
+        },
+        "AI16Z": {
+            "long_count": 4,
+            "short_count": 3
+        },
+        "POPCAT": {
+            "long_count": 4,
+            "short_count": 5
+        },
+        "CHILLGUY": {
+            "long_count": 1,
+            "short_count": 1
+        },
+        "LINK": {
+            "long_count": 9,
+            "short_count": 6
+        },
+        "LTC": {
+            "long_count": 9,
+            "short_count": 9
+        },
+        "LDO": {
+            "long_count": 3,
+            "short_count": 2
+        },
+        "WLD": {
+            "long_count": 2,
+            "short_count": 1
+        },
+        "WIF": {
+            "long_count": 3,
+            "short_count": 4
+        },
+        "kPEPE": {
+            "long_count": 10,
+            "short_count": 10
+        },
+        "AAVE": {
+            "long_count": 12,
+            "short_count": 8
+        },
+        "ONDO": {
+            "long_count": 2,
+            "short_count": 2
+        },
+        "GRASS": {
+            "long_count": 6,
+            "short_count": 0
+        },
+        "KAS": {
+            "long_count": 1,
+            "short_count": 0
+        },
+        "CRV": {
+            "long_count": 2,
+            "short_count": 2
+        },
+        "ADA": {
+            "long_count": 1,
+            "short_count": 0
+        },
+        "SEI": {
+            "long_count": 1,
+            "short_count": 1
+        },
+        "JTO": {
+            "long_count": 4,
+            "short_count": 3
+        },
+        "kNEIRO": {
+            "long_count": 3,
+            "short_count": 1
+        },
+        "GOAT": {
+            "long_count": 7,
+            "short_count": 3
+        },
+        "FIL": {
+            "long_count": 2,
+            "short_count": 2
+        },
+        "FTM": {
+            "long_count": 13,
+            "short_count": 5
+        },
+        "GMT": {
+            "long_count": 1,
+            "short_count": 0
+        },
+        "ETC": {
+            "long_count": 2,
+            "short_count": 1
+        },
+        "MOODENG": {
+            "long_count": 4,
+            "short_count": 0
+        },
+        "FTT": {
+            "long_count": 1,
+            "short_count": 1
+        },
+        "OP": {
+            "long_count": 3,
+            "short_count": 5
+        },
+        "ARB": {
+            "long_count": 1,
+            "short_count": 3
+        },
+        "APE": {
+            "long_count": 2,
+            "short_count": 0
+        },
+        "PURR": {
+            "long_count": 0,
+            "short_count": 2
+        },
+        "ZK": {
+            "long_count": 2,
+            "short_count": 0
+        },
+        "DYDX": {
+            "long_count": 4,
+            "short_count": 3
+        },
+        "ZRO": {
+            "long_count": 2,
+            "short_count": 1
+        },
+        "0x0EA09D97b4084d859328ec4bF8eBCF9ecCA26F1D": {
+            "long_count": 1,
+            "short_count": 1
+        },
+        "0xC8fCd6fB4D15dD7C455373297dEF375a08942eCe": {
+            "long_count": 1,
+            "short_count": 0
+        },
+        "0x59b007E9ea8F89b069c43F8f45834d30853e3699": {
+            "long_count": 0,
+            "short_count": 1
+        },
+        "TAO": {
+            "long_count": 3,
+            "short_count": 2
+        },
+        "MOVE": {
+            "long_count": 1,
+            "short_count": 1
+        },
+        "PYTH": {
+            "long_count": 1,
+            "short_count": 0
+        },
+        "AIXBT": {
+            "long_count": 2,
+            "short_count": 0
+        },
+        "BIO": {
+            "long_count": 2,
+            "short_count": 0
+        },
+        "MATIC": {
+            "long_count": 2,
+            "short_count": 1
+        },
+        "OX": {
+            "long_count": 1,
+            "short_count": 0
+        },
+        "BLAST": {
+            "long_count": 1,
+            "short_count": 0
+        },
+        "PENDLE": {
+            "long_count": 1,
+            "short_count": 0
+        },
+        "MNT": {
+            "long_count": 1,
+            "short_count": 0
+        },
+        "FET": {
+            "long_count": 1,
+            "short_count": 0
+        },
+        "MKR": {
+            "long_count": 2,
+            "short_count": 0
+        },
+        "RENDER": {
+            "long_count": 1,
+            "short_count": 0
+        },
+        "IMX": {
+            "long_count": 1,
+            "short_count": 0
+        },
+        "BLUR": {
+            "long_count": 1,
+            "short_count": 0
+        },
+        "EIGEN": {
+            "long_count": 1,
+            "short_count": 0
+        },
+        "0x2B3bb4c683BFc5239B029131EEf3B1d214478d93": {
+            "long_count": 1,
+            "short_count": 0
+        },
+        "STRK": {
+            "long_count": 1,
+            "short_count": 0
+        },
+        "MEME": {
+            "long_count": 1,
+            "short_count": 0
+        },
+        "INJ": {
+            "long_count": 0,
+            "short_count": 2
+        },
+        "STRAX": {
+            "long_count": 1,
+            "short_count": 0
+        },
+        "DYM": {
+            "long_count": 1,
+            "short_count": 0
+        }
+    },
+    "traders": {
+        "0x077F7a7b115C989D07f8D8efb16A2C2747B4270d": {
+            "HYPERLIQUID": [
+                {
+                    "indexToken": "ETH",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "ETH",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ENA",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "BTC",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "BTC",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "JUP",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "BTC",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "BTC",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "XRP",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "HYPE",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "DOGE",
+                    "isLong": true
+                }
+            ]
+        },
+        "0xd8b07BC1bC3bAe553BCA5E94E99935dC12Df24Ff": {
+            "HYPERLIQUID": [
+                {
+                    "indexToken": "NEAR",
+                    "isLong": true
+                }
+            ]
+        },
+        "0x47A761bb9e970AC93Cb571c4614C4cA643714e4F": {
+            "HYPERLIQUID": [
+                {
+                    "indexToken": "SPX",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "GRIFFAIN",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "ZEREBRO",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "VIRTUAL",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "BADGER",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "FARTCOIN",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "PENGU",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "HYPE",
+                    "isLong": false
+                }
+            ]
+        },
+        "0x8e096995C3e4A3F0Bc5B3ea1cBA94dE2Aa4D70C9": {
+            "HYPERLIQUID": [
+                {
+                    "indexToken": "DOGE",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "ANIME",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "S",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "MELANIA",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "BTC",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "ETH",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "SOL",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "GRIFFAIN",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "TRUMP",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "kBONK",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "SUI",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "ZEREBRO",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "UNI",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "kBONK",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "VIRTUAL",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "AI16Z",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "FARTCOIN",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "PENGU",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "HYPE",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "HYPE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "POPCAT",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "CHILLGUY",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "HYPE",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "ENA",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "LINK",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "LTC",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "LDO",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "WLD",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "WIF",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "kPEPE",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "AAVE",
+                    "isLong": false
+                }
+            ]
+        },
+        "0x160dBDdc299Dd258E510f4cB5Aa9B26cd98d6F5a": {
+            "HYPERLIQUID": [
+                {
+                    "indexToken": "HYPE",
+                    "isLong": false
+                }
+            ]
+        },
+        "0x8C50b477e61F4C8f8bF22c9e00627ef24C35e4DB": {
+            "HYPERLIQUID": [
+                {
+                    "indexToken": "BTC",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "kPEPE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "SOL",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "ETH",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "kPEPE",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "kBONK",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "kBONK",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "kBONK",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ANIME",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "SUI",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "ONDO",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "FARTCOIN",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "AAVE",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "TRUMP",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "GRASS",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "kBONK",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "DOGE",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "FARTCOIN",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "BTC",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "XRP",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "KAS",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "LINK",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "HYPE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ONDO",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "XRP",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "SOL",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "TRUMP",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "BTC",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "CRV",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "FARTCOIN",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "SOL",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "SOL",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "TRUMP",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "DOGE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "TRUMP",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "HYPE",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "LINK",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ADA",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "SOL",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "POPCAT",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "kBONK",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "GRASS",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "S",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "GRASS",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "DOGE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "TRUMP",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ETH",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "BTC",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ETH",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "TRUMP",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "SOL",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "FARTCOIN",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "POPCAT",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "XRP",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "SEI",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "FARTCOIN",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "FARTCOIN",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "SOL",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "AAVE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ETH",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "SOL",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "kBONK",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "LTC",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "LINK",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "FARTCOIN",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "DOGE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "XRP",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "AAVE",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "XRP",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "DOGE",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "UNI",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "SUI",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "LTC",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "kPEPE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "SUI",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "LTC",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "AAVE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "kPEPE",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "FARTCOIN",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "PENGU",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "XRP",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "AAVE",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "ZEREBRO",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "ENA",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "JTO",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "LTC",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "JTO",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "FARTCOIN",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "SOL",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ENA",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "kPEPE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "BTC",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "kPEPE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "LTC",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "LTC",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "DOGE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "AAVE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "kNEIRO",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "LINK",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "LINK",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "AAVE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "DOGE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "LTC",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "DOGE",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "LTC",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "AAVE",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "FARTCOIN",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "ENA",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "FARTCOIN",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ETH",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "JTO",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "PENGU",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "kPEPE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ETH",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "kNEIRO",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "TRUMP",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "ETH",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "LINK",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "SOL",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "kPEPE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "DOGE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "TRUMP",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "LTC",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "SUI",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "PENGU",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "XRP",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "LTC",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "BTC",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "LTC",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "BTC",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "SOL",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "AAVE",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "SUI",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ETH",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "LTC",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ZEREBRO",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ETH",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "ENA",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "ZEREBRO",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "S",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "XRP",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ETH",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "SOL",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "DOGE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ENA",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "GOAT",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "BTC",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "PENGU",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ONDO",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "SOL",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "LINK",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ONDO",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "XRP",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "FIL",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "XRP",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "XRP",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "PENGU",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "GOAT",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "FARTCOIN",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "AAVE",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "ENA",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ENA",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "SOL",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "SUI",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "FTM",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "FTM",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "FARTCOIN",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "FTM",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "FARTCOIN",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "kNEIRO",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ETH",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "BTC",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "SOL",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "HYPE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "DOGE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "POPCAT",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "POPCAT",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "SUI",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "DOGE",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "JTO",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "XRP",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "ETH",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "SUI",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ETH",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ENA",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ETH",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "FTM",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "FTM",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "kNEIRO",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "JTO",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "HYPE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "FTM",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "FTM",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "FTM",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "GMT",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "FTM",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "BTC",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "POPCAT",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "CHILLGUY",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "DOGE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "FIL",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ETC",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "SUI",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "XRP",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ETC",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "LTC",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "GOAT",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "SUI",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "ETH",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "WIF",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "DOGE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "FIL",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ETC",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "FIL",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "GOAT",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "BTC",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "MOODENG",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "HYPE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "HYPE",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "ENA",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "FTM",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "FTT",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "FTT",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "SOL",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "SOL",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "OP",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "kPEPE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "BTC",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "FTM",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "MOODENG",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "BTC",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "SUI",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "LTC",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "MOODENG",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "SOL",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ETH",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ARB",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "DOGE",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "WIF",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "LINK",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ENA",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "SOL",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "MOODENG",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "UNI",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "DOGE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "HYPE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "FTM",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ENA",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ENA",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "XRP",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "WIF",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "GOAT",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "BTC",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ENA",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "APE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "GOAT",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "DOGE",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "kPEPE",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "GOAT",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "AAVE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "SOL",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "kPEPE",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "ENA",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "WIF",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "ETH",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "SOL",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "PURR",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "AAVE",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "ENA",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "LINK",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "kPEPE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ENA",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "kPEPE",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "DOGE",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "ENA",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "DOGE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "AAVE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ENA",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "ETH",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "BTC",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "AAVE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "kPEPE",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "XRP",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "BTC",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "LTC",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "XRP",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "BTC",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "XRP",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ETH",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ENA",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "WIF",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "LTC",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "ETH",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "XRP",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ETH",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ZK",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ENA",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "DOGE",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "OP",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "ENA",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "DYDX",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "DOGE",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "XRP",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "kPEPE",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "GOAT",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "POPCAT",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "AAVE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "OP",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "AAVE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "FTM",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "OP",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "LINK",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "GOAT",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "DYDX",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "LINK",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "FTM",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "XRP",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "DOGE",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "XRP",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "kBONK",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "OP",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "DYDX",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "DYDX",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "kPEPE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ENA",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "DOGE",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "DOGE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "PENGU",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "DOGE",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "XRP",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "DOGE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "kPEPE",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "POPCAT",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "AAVE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "GOAT",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "DOGE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "SOL",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "FTM",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "DYDX",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "DYDX",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "POPCAT",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "CRV",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "DYDX",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "LDO",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "FTM",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "DOGE",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "ZRO",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "OP",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "CRV",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "CRV",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "kBONK",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "BTC",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "XRP",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "kPEPE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "PURR",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "DOGE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "kBONK",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "XRP",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "LDO",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "AAVE",
+                    "isLong": true
+                }
+            ]
+        },
+        "0xcDEcd8e2d264354Db73eEF8eAf564C531d041B09": {
+            "KWENTA": [
+                {
+                    "indexToken": "0x0EA09D97b4084d859328ec4bF8eBCF9ecCA26F1D",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "0xC8fCd6fB4D15dD7C455373297dEF375a08942eCe",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "0x59b007E9ea8F89b069c43F8f45834d30853e3699",
+                    "isLong": false
+                }
+            ]
+        },
+        "0xeAA595A76b7496189e0bCF935609DE9C4be29724": {
+            "HYPERLIQUID": [
+                {
+                    "indexToken": "HYPE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "HYPE",
+                    "isLong": true
+                }
+            ]
+        },
+        "0xAD747d2d91D8fD336Bda8805961089cEc51f3550": {
+            "HYPERLIQUID": [
+                {
+                    "indexToken": "TRUMP",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "TAO",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "AI16Z",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "PENGU",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "ENA",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "JTO",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "WIF",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "TAO",
+                    "isLong": false
+                }
+            ]
+        },
+        "0x4Cd80aa0CE4881Eb8679EdA1f6fbe3d89AEc0F7F": {
+            "HYPERLIQUID": [
+                {
+                    "indexToken": "FTM",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "AI16Z",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "AI16Z",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "FTM",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "PENGU",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "kPEPE",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "LINK",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "HYPE",
+                    "isLong": false
+                }
+            ]
+        },
+        "0x8aA077F5998D234Ac8641d73D6bc4976e2A210FC": {
+            "HYPERLIQUID": [
+                {
+                    "indexToken": "WLD",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "MOVE",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "XRP",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "SUI",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "TAO",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "TRUMP",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "PYTH",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "LINK",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ETH",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "JTO",
+                    "isLong": true
+                }
+            ]
+        },
+        "0x25554A80781eE62414C3747e81C3f50157C634B1": {
+            "HYPERLIQUID": [
+                {
+                    "indexToken": "GRIFFAIN",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "AIXBT",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ANIME",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "BIO",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ZEREBRO",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "VIRTUAL",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "GRASS",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "SOL",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "TAO",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "MATIC",
+                    "isLong": true
+                }
+            ]
+        },
+        "0xCfA99B8E07D37F25E5769400c29e22076bC08e81": {
+            "HYPERLIQUID": [
+                {
+                    "indexToken": "HYPE",
+                    "isLong": true
+                }
+            ]
+        },
+        "0x6fbE81055140287005fFB5659A9312EBa019F350": {
+            "HYPERLIQUID": [
+                {
+                    "indexToken": "TRUMP",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "FARTCOIN",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "OX",
+                    "isLong": true
+                }
+            ]
+        },
+        "0x24d02e64d4A2580d570666546aC937adaB2b3E08": {
+            "HYPERLIQUID": [
+                {
+                    "indexToken": "OP",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "BLAST",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ANIME",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "AIXBT",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "BTC",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "GRASS",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ZK",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "PENDLE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "PENGU",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ZRO",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "LINK",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "MNT",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "FET",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "BIO",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "MKR",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "AI16Z",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "RENDER",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "IMX",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "VIRTUAL",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "DOGE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "LDO",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "AAVE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "WLD",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ETH",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "UNI",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "BLUR",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "LTC",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "HYPE",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "EIGEN",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "TAO",
+                    "isLong": true
+                }
+            ]
+        },
+        "0x5a54aD9860B08AAee07174887f9ee5107b0A2e72": {
+            "HYPERLIQUID": [
+                {
+                    "indexToken": "BTC",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "BTC",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "BTC",
+                    "isLong": false
+                }
+            ]
+        },
+        "0x728744F0C85b1fBD31A71ED9D938d0741A9ef248": {
+            "KWENTA": [
+                {
+                    "indexToken": "0x0EA09D97b4084d859328ec4bF8eBCF9ecCA26F1D",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "0x2B3bb4c683BFc5239B029131EEf3B1d214478d93",
+                    "isLong": true
+                }
+            ]
+        },
+        "0x1755AF9d62eF0978AC9dAc48B3EeEBB90e793b82": {
+            "HYPERLIQUID": [
+                {
+                    "indexToken": "kBONK",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "STRK",
+                    "isLong": true
+                }
+            ]
+        },
+        "0xda72696cEC7398B548F0b62fc094d0ab46C632d3": {
+            "HYPERLIQUID": [
+                {
+                    "indexToken": "MKR",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "LDO",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "SEI",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "ARB",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "MATIC",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "MEME",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "INJ",
+                    "isLong": false
+                }
+            ]
+        },
+        "0x0cDDEbe6726F9684D982b7A4B325dD784b469D93": {
+            "HYPERLIQUID": [
+                {
+                    "indexToken": "GRIFFAIN",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "AI16Z",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "XRP",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "SOL",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "DOGE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "PENGU",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "APE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "MOVE",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ZRO",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "GRASS",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ETH",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "STRAX",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "INJ",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "DYM",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "MATIC",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ARB",
+                    "isLong": false
+                }
+            ]
+        },
+        "0x9f07Dc88Dc450978e5DDF973f6a0236A7cFBF99a": {
+            "HYPERLIQUID": [
+                {
+                    "indexToken": "ETH",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "ETH",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "XRP",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "ETH",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ETH",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "AI16Z",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "BTC",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "HYPE",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "BTC",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ETH",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ETH",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "ETH",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "BTC",
+                    "isLong": true
+                },
+                {
+                    "indexToken": "OP",
+                    "isLong": false
+                },
+                {
+                    "indexToken": "ARB",
+                    "isLong": false
+                }
+            ]
+        }
+    }
+}

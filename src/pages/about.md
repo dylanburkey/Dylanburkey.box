@@ -4,7 +4,7 @@ title: "Dylan Burkey - About"
 description: "Senior Web Engineer with 24+ years of experience in enterprise web development, Forbes Legacy Pass Holder, and marketing specialist focused on delivering exceptional digital experiences."
 canonicalURL: https://dylanburkey.com/about
 image:
-  src: "/assets/images/dylan-burkey.jpg"
+  src: "/assets/dylan-burkey.jpg"
   alt: "Dylan Burkey"
   title: "Dylan Burkey"
   width: 300
