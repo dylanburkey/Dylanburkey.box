@@ -1,80 +1,75 @@
 ---
 layout: ../layouts/AboutLayout.astro
 title: "About"
+description: "Learn more about Dylan Burkey and his accomplishments."
+ogImage: "@assets/dylan-burkey.jpg"
+canonicalURL: "https://dylanburkey.com/about"
 ---
 
-## Dylan Burkey - Senior Web Marketing Engineer - Web3 Forbes Legacy Pass Holder
+# Dylan Burkey
+## Senior Web Marketing Engineer & Web3 Forbes Legacy Pass Holder
 
-![Dylan Burkey - Senior Web Marketing Manager](@assets/images/dylan-burkey.jpg)
+<div style="display: flex; align-items: start; gap: 2rem;">
+<img src="@assets/images/dylan-burkey.jpg" alt="Dylan Burkey - Senior Web Marketing Manager" style="float: left; margin-right: 2rem; max-width: 300px;" />
 
-Who the heck is he and why should I listen to him?
+With over 23 years of experience in web development and digital marketing, I'm one of Ohio's most sought-after Digital Marketing and Technical Operations consultants. My unique blend of technical expertise and marketing acumen allows me to deliver exceptional results for businesses of all sizes.
 
-- This is a very valid question, so let me start with my background.
+</div>
 
----
+## Core Competencies
 
-## Career Background
+### Technical Marketing Expertise
+- Advanced Analytics Implementation (Google Analytics, GA4)
+- Tag Management Systems (Google Tag Manager)
+- User Behavior Analysis (VWO, HotJar, MS Clarity)
+- Data Visualization (Google Looker)
+- User Analytics (Heap, CrazyEgg)
+- PPC Campaign Management (Google AdWords, Bing, Yahoo Ads, LinkedIn)
 
-I began developing websites in highschool as I completed all of my available courses by 11th grade. Web Development always fascinated me, i'm sure my Father
-was a large influence as he has ran Digital Marketing companies my entire life.
+### Marketing Leadership
+- MBA in Marketing
+- Strategic Brand Development
+- Content Strategy & Creation
+- Campaign Architecture & Execution
+- Brand Restructuring & Optimization
+- Performance Marketing
 
-23 years later and i'm now one of the most sought after Digital Marketing and Technical Operations consultant in Ohio.
+### Web Development & Architecture
+- Full Stack Development (Case Western Reserve certified)
+- Modern JavaScript Frameworks
+- System Architecture Design
+- Performance Optimization
+- Technical Debugging & Documentation
+- Project Recovery & Optimization
 
-My background has always been under the "Marketing" umbrella. In my old "9-5" job I ran:
+## Professional Certifications
+- Google Analytics GA4
+- Google Core Web Vitals
+- Google Tag Manager
+- Google Looker
+- PEN 200: Penetration Testing with Kali Linux
 
-- Technical Marketing
+## Development Philosophy
 
-  - Google Analytics
-  - Google Tag Manager
-  - VWO
-  - HotJar
-  - MS Clarity
-  - Google Looker
-  - Heap
-  - CrazyEgg
-  - Google AdWords
-    - Just about every PPC tool currently in use (Bing, Yahoo Ads, LinkedIn, etc)
+### Performance-First Approach
+I implement:
+- Progressive Enhancement
+- Critical CSS Optimization
+- Next-Gen Image Formats
+- Intelligent Lazy Loading
+- Service Worker Integration
+- Non-Blocking Code Execution
+- Minimal Bundle Sizes
+- Enterprise-Grade Security
 
-- **Marketing**
+### Why Choose Me?
+1. **User-Centric Focus**: Every decision is made with the end-user in mind
+2. **Performance Obsession**: I deliver blazing-fast solutions that outperform industry standards
+3. **Technical Marketing Integration**: Unique ability to bridge technical implementation with marketing strategy
+4. **Problem Prevention**: Identify and resolve issues before they impact business operations
+5. **Continuous Innovation**: Always learning and implementing cutting-edge technologies
 
-  Having recently completed my Marketing MBA I have an excellent grasp on Marketing as a whole.
+## Background Story
+My journey began in high school where I started developing websites after completing all available courses by 11th grade. Influenced by my father's success in digital marketing, I developed a passion for web development that has only grown stronger over the past two decades.
 
-  - Content Creation
-  - Brand Strategy
-  - Building and Developing Brands from scratch.
-  - Restructuring current Brand strategies that are not working.
-  - Campaign Creation
-
-- **Web Development**
-
-I have a understanding of all of the current JS frameworks (despite my distane for one.) I work with a number of different companies in various roles. I'm typically called in to course correct a project that has gone off track.
-
-This can be difficult as company stakeholders will believe they have answers for everything.
-
-In my current role I debug, fix, document and impove current solutions. I also build out solutions and System Artchitect for companies looking to get off the ground.
-
-**Why am I the best?**
-
-- I focus on the user and how I can improve their experience.
-- Performance is absolutely essential, what most companies and 3rd party contractors provide is garbage. Most companies don't realize they are being taken for a ride by some of the big name Digital Agencies out there.
-
-- I returned to school in 2019 and received my Full Stack Web Development certificate from Case Western Reserve.
-- I have valid qualifications in the following:
-  - Google Analytics GA4
-  - Google Core Web Vitals
-  - Google Tag Manager
-  - Google Looker
-  - PEN 200: Penetration testing with Kali Linux
-
-My ability to combine my marketing and web expertise solve solutions or ideally prevent them before they break is where I shine.
-
-### What should I see on a site
-
-- User first development (Progressive Enhancement)
-- Critical CSS
-- Next Generation image formats
-- Lazy loading images
-- Service Workers
-- Non Render Blocking Code
-- A site the size of the original Doom game.
-- Secure Systems!
+Today, I specialize in course-correcting challenging projects and building robust, scalable solutions for businesses. My approach combines technical excellence with marketing intelligence to deliver results that exceed expectations.
